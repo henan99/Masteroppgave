@@ -1,0 +1,156 @@
+\section{The ever-expanding Universe}
+To investigate sources very far away from an observer it is important to understand the influence this distance 
+has on the desired observables. Therefore, in astrophysics and astronomy in general there are distances created to take into account the effects of an expanding Universe. 
+This chapter draws heavily from \cite{hogg2000distance}. 
+
+
+\subsection{Cosmological parameters}
+
+A reasonable place to start is with the Hubble constant $H_0$. 
+This parameter sets the recession speed of a point at proper distance $d$ and the current position via the relation $v = H_0 d$. 
+The subscript $0$ refers to the present epoch signifying that $H_0$ is not static but changes with time. 
+The precise value of $H_0$ is quite debated, so it's commonly expressed in a parameterised form,
+$$
+H_0= 100\frac{\rm km}{\rm s}\frac{1}{\rm Mpc} h.
+$$
+The parameter $h$ is a dimensionless number that according to current knowledge can take the value between $0.5$ to $0.8$ reflecting the range of answers collected from recent work. 
+
+Beyond its basic definition, $H_0$ also allows for the derivation of two significant cosmic scales:
+
+\textbf{Hubble Time ($t_H$) }: Defined as the inverse of 
+$H_0$, $t_H$ provides an estimate of the age of the Universe. 
+It sets a scale for the time since the Big Bang, assuming the Universe has been expanding at a constant rate. The equation 
+$t_H = 1/H_0 \approx 14 \quad\text{Billion years}$ offers a way to approximate this expansion timescale.
+
+
+\textbf{Hubble Distance ($D_H$) }: This is a measure of the distance. Calculated as 
+$D_H = c/H_0 \approx 4.4 \quad \text{Gly}$, where $c$ is the speed of light, 
+it represents a critical boundary in observational cosmology. %Beyond this distance, the expansion of the Universe dominates the motion of galaxies, providing a fundamental constraint for cosmological observations and theories.
+
+\subsection{Shape of the Universe}
+
+
+The shape and expansion of the Universe are central themes in cosmology, but to model such one needs to define the structure of the Universe and its contents. 
+In this report and many articles, the Universe is
+often explored through the lens of the flat Lambda Cold Dark Matter ($\Lambda$CDM) model. 
+This model, widely accepted in contemporary cosmology, provides a framework for understanding the Universe's composition and its expansion dynamics by assuming as the name suggests no curvature and cold dark matter.
+In the $\Lambda$CDM model, two key parameters are important: the mass density of the Universe, $\rho_0$, and the cosmological constant, $\Lambda$.
+These parameters, which evolve, are a part of defining the metric tensor in general relativity, thereby allowing us to model the curvature of the Universe based on its initial conditions.
+These parameters are often expressed as dimensionless variables:
+
+$$
+\Omega_m = \frac{8\pi G\rho_0}{3H_0^2}
+$$
+
+$$
+\Omega_\Lambda = \frac{\Lambda c^2}{3H_0^2}
+$$
+
+Here, $\Omega_m$ represents the matter density parameter, encompassing both ordinary (baryonic) matter and dark matter. 
+$\Omega_\Lambda$, on the other hand, corresponds to the density parameter associated with the cosmological constant, which is often interpreted as dark energy.
+
+
+
+
+In general, one has a third density parameter $\Omega_k$ which defines the curvature of space-time and the relationship between these parameters is expressed as: 
+
+$$
+\Omega_m + \Omega_\Lambda + \Omega_k = 1
+$$
+
+
+In a flat Universe, one has $\Omega_k = 0$ and the Universe is dominated by dark energy and dark matter. The model used in this report and the papers used in the following chapters is the flat $\Lambda$CDM model where the parameters take the values of 
+$\Omega_\Lambda = 0.7$ and $\Omega_m = 0.3$. These values align with current observational data.
+
+
+
+\subsection{Redshift}
+Redshift is defined as the fractional Doppler shift of emitting light. The Doppler effect is a known effect on different observables in the Universe where the relative motion of sources to observers will impact the observable. The redshift is quantified for a light source as 
+
+\begin{equation}
+    z = \frac{\nu_e}{\nu_o}-1 = \frac{\lambda_o}{\lambda_e}-1
+\end{equation}
+
+Here $o$ refers to the observed quantity and $e$ the emitted. Due to the expansion of the Universe the light emitted from a distant source will be increasingly redshifted the further away it is.
+In these scenarios the redshift serves as a distance measure, allowing us to deduce distances to faraway objects.
+
+
+
+\subsection{Comoving distance}
+\label{sec:comoving_distance}
+
+
+Comoving distance is an important concept in cosmography, 
+acting as a standard unit for various distance measurements in the Universe. 
+This distance, often termed the line-of-sight distance for an observer on Earth, 
+remains constant even as objects expand with the Hubble flow. 
+To calculate the total comoving distance ($D_c$) to an object, 
+one integrates the differential comoving distances ($\delta D_c$) along the line of sight, starting from redshift 
+$z=0$ to the object. This integration necessitates consideration of the Universe's parametric composition and the $\delta D_c$ is expressed as
+
+\begin{equation}
+    \delta D_c = \frac{D_H}{E(z)}dz,
+\end{equation}
+where the function $E(z)$ is defined as
+\begin{equation}
+    E(z)  = \sqrt{\Omega_m(z+1)^3 +\Omega_k (1+z)^2 + \Omega_\Lambda  }.
+\end{equation}
+Here, 
+$E(z)$ incorporates the density parameters previously discussed and the redshift 
+$z$. It also relates to the Hubble constant observed by a hypothetical observer at redshift $z$, expressed as 
+$H(z) = H_0 E(z)$.
+
+One then calculates the comoving distance $D_c$ from 
+\begin{equation}
+    D_c =D_H \int_0^z\frac{dz}{E(z)}
+\end{equation}
+
+In addition to the line of sight, one can define the transverse comoving distance $D_m$. This distance 
+relates two points in the night sky at the same redshift separated by an angle $d\theta$. The actual distance
+between them $d\theta D_m$ will then vary depending on the curvature of the Universe. This relationship is summarized in the following equation
+which accounts for different geometries,
+
+$$
+D_m =
+\begin{cases}
+  D_h\frac{1}{\sqrt{\Omega_k}}sinh(\frac{\sqrt{\Omega_k}D_c}{D_H}) & \text{if } \Omega_k > 0 \\
+  D_c& \text{if } \Omega_k = 0 \\
+  D_h\frac{1}{\sqrt{|\Omega_k|}}sin(\frac{\sqrt{|\Omega_k|}D_c}{D_H}) & \text{if } \Omega_k < 0
+\end{cases}
+$$
+
+The different cases correspond to hyperbolic, flat, and spherical geometry respectively. The true nature 
+of the Universe is still unknown, but recent observations indicate a flat Universe. 
+
+
+
+
+
+
+
+
+\subsection{Luminosity distance}
+The luminosity distance $D_l$ is defined through the relation between 
+the bolometric flux $F$ of a source and its bolometric luminosity $L$. Bolometric flux is the energy received per unit of time per unit area without any obscuration, while bolometric luminosity is the total energy emitted per unit of time.
+The luminosity distance is defined as
+\begin{equation}    
+    D_l = \sqrt{\frac{L}{4\pi F}}
+\end{equation}
+
+
+It is related to the transverse comoving distance via 
+
+\begin{equation}
+    D_l = (1+z)D_m.
+\end{equation}
+
+If one wants to calculate the spectral 
+flux/ differential flux one needs to take into account a correction. This correction comes 
+from the fact that one is viewing a redshifted object. The object is emitting in a different band than 
+observed. The spectrum of the differential flux $F_\nu$ is related to the spectral luminosity via
+\begin{equation}
+    F_\nu = (1+z) \frac{L_{(1+z)\nu}}{L_\nu}\frac{L_\nu}{4\pi D_l^2}.
+\end{equation}
+
+
+All these equations listed help include the effects of an expanding Universe when astronomers study distant objects and their properties.

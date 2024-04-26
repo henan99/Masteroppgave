@@ -1,0 +1,125 @@
+\documentclass[]{article}
+%\setlength{\headheight}{13.59999pt}
+\usepackage[utf8]{inputenc}
+
+\title{Luminosity function}
+\author{Henrik Andrews}
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{bibfile.bib}
+
+\usepackage{hyperref}
+
+
+
+
+
+\usepackage{subcaption}
+\usepackage[ portrait, margin=2.54cm]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{upgreek}
+\usepackage{bbold}
+\usepackage{fancyhdr}
+\usepackage{mathtools}
+\usepackage{tabularx}
+\usepackage{lipsum}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{pdfpages}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+\usepackage{caption}
+\usepackage{multicol}	
+
+
+\usepackage{float}
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}}
+\usepackage{listings}
+\usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+\definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
+\definecolor{mylilas}{RGB}{170,55,241}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\setstretch{1} %line spacing
+
+
+
+\begin{document}
+
+% title source: https://www.overleaf.com/project/6021d9e4632b9ef90aa8d238
+\title{ \normalsize
+	\HRule{0.5pt} \\
+	\LARGE \textbf{{Sources of Ultra High Energy Cosmic Rays and Neutrinos}}	
+	\\
+	\HRule{2pt} \\ [0.5cm]		
+%fix the university logo !!!!!!!!!!!!!!!!!!!!!!!!
+	\vspace{6cm}
+	\begin{figure}[htp]
+    \centering
+    \includegraphics[width=.2\textwidth]{Plots/Logo-Ntnu.svg.png}
+    \end{figure}
+}
+
+\author{
+    \normalsize 
+	\textbf{Henrik Døvle Andrews } \\
+	Norwegian university of Science and Technology \\ 
+}
+
+\maketitle
+\setcounter{page}{ 0 }
+
+\newpage
+
+\pagestyle{fancy}
+\fancyhf{}
+\setlength\headheight{14pt}
+\fancyhead[L]{Henrik Døvle Andrews}
+\fancyhead[R]{\leftmark}
+\fancyfoot[R]{Page \thepage \:}
+\setcounter{page}{1}
+
+
+\maketitle
+\section*{Preface}
+\lipsum[1]
+
+
+% Abstract
+\begin{abstract}
+\lipsum[1]
+
+\end{abstract}
+
+\newpage 
+% Summary (you might use a simple section for this)
+% Acknowledgments
+\section*{Acknowledgments}
+I would like to thank my supervisor, Professor Foteini Oikonomou, for her guidance and help throughout this project. I would also like to thank my fellow students for their help and support. \cite{Balasubramaniam_2021}
+ % Replace with your acknowledgment text
+
+\newpage
+% Table of Contents (optional)
+%\tableofcontent
+
+\newpage
+% List of Figures
+\listoffigures
+
+% List of Tables
+\listoftables
+
+
+\newpage
+
+\input{Introduction.tex}
+
+\newpage 
+
+\input{comsology_dist.tex}
+
+\newpage
+\input{Compact symmetric objects.tex}
+\newpage
+\printbibliography
+\end{document}

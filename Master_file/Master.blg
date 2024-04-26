@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Master.blg'
+[234] biber-MSWIN64:340> INFO - === 
+[297] Biber.pm:419> INFO - Reading 'Master.bcf'
+[466] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
+[485] Biber.pm:4419> INFO - Processing section 0
+[498] Biber.pm:4610> INFO - Looking for bibtex file 'bibfile.bib' for section 0
+[573] bibtex.pm:1713> INFO - LaTeX decoding ...
+[676] bibtex.pm:1519> INFO - Found BibTeX data source 'bibfile.bib'
+[827] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[827] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[827] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[827] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[843] bbl.pm:660> INFO - Writing 'Master.bbl' with encoding 'UTF-8'
+[858] bbl.pm:763> INFO - Output to Master.bbl
+[858] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\henri\AppData\Local\Temp\biber_tmp_heer\16a8c50cadcc2db73e6fd5c8ac073cba_13920.utf8, line 221, warning: 1 characters of junk seen at toplevel
+[858] Biber.pm:133> INFO - WARNINGS: 1

@@ -1,0 +1,18 @@
+{"files.exclude": {
+    ".fls": true,
+    "**.aux": true,
+    "**.bbl": true,
+    "**.bcf": true,
+    "**.lot": true,
+    "**.blg": true,
+    "**.fls": true,
+    "**.lof": true,
+    "**.log": true,
+    "**.toc": true,
+    "**.out": true,
+    "**.fdb_latexmk": true,
+    "**.synctex.gz": true,
+    "**.run.xml": true
+},
+"workbench.colorTheme": "Default Light+"
+}

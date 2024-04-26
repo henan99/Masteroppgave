@@ -1,0 +1,574 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Balasubramaniam_2021}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=a875ad4c5ee9ee78ab4fdbce63a2ef35}{%
+           family={Balasubramaniam},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1a051e8b3a5a34ead877be3264706e7}{%
+           family={Stawarz},
+           familyi={S\bibinitperiod},
+           given={Ł.},
+           giveni={Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=209d2c89228d34bb75d0817e570182ea}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab09c014543dc357d49fc5986b95c2b7}{%
+           family={Sobolewska},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b37c25e45d749664a1130a263360835c}{%
+           family={Marchenko},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18c5915c8d59d0d3c813d338a79ffebc}{%
+           family={Thimmappa},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2edad16a443ef4d73b40c265b391c2ea}{%
+           family={Król},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi Ł.},
+           giveni={D\bibinitperiod\bibinitdelim Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c280469241f12025ffb8ff6d5b4c6dc0}{%
+           family={Migliori},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b41e2b7f06d9be6c80e77ef4af5818a}{%
+           family={Siemiginowska},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{a2151fa54f0465f897fda7c7abdf49e3}
+      \strng{fullhash}{09b65e4fbd39b19a76761d3cb042f0a7}
+      \strng{bibnamehash}{a2151fa54f0465f897fda7c7abdf49e3}
+      \strng{authorbibnamehash}{a2151fa54f0465f897fda7c7abdf49e3}
+      \strng{authornamehash}{a2151fa54f0465f897fda7c7abdf49e3}
+      \strng{authorfullhash}{09b65e4fbd39b19a76761d3cb042f0a7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{X-Ray Emission of the gamma-ray-loud Young Radio Galaxy NGC 3894}
+      \field{volume}{922}
+      \field{year}{2021}
+      \field{pages}{84}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/1538-4357/ac1ff5
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.3847/1538-4357/ac1ff5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3847/1538-4357/ac1ff5
+      \endverb
+    \endentry
+    \entry{bronzini2024investigating}{misc}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=41589b096a63ba85e4a19eb4156f0f5b}{%
+           family={Bronzini},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c280469241f12025ffb8ff6d5b4c6dc0}{%
+           family={Migliori},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=939f56551940c43c52cd1b2e9e471d02}{%
+           family={Vignali},
+           familyi={V\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab09c014543dc357d49fc5986b95c2b7}{%
+           family={Sobolewska},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1a051e8b3a5a34ead877be3264706e7}{%
+           family={Stawarz},
+           familyi={S\bibinitperiod},
+           given={Ł.},
+           giveni={Ł\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b41e2b7f06d9be6c80e77ef4af5818a}{%
+           family={Siemiginowska},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=479c59704795902615a13cd5b386ff83}{%
+           family={Orienti},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f60b3a55626098e877f6d3e4c149f33}{%
+           family={D'Ammando},
+           familyi={D\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=446fa78fd9c2692b6afd9ba80af7699d}{%
+           family={Giroletti},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9cd780ab1e25cca4320d7fe365008d7}{%
+           family={Principe},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a875ad4c5ee9ee78ab4fdbce63a2ef35}{%
+           family={Balasubramaniam},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ba4c43084bec93080d7083cf04dbaf5}
+      \strng{fullhash}{3daa3d0828d6f82f69ad8a2655ec299e}
+      \strng{bibnamehash}{6ba4c43084bec93080d7083cf04dbaf5}
+      \strng{authorbibnamehash}{6ba4c43084bec93080d7083cf04dbaf5}
+      \strng{authornamehash}{6ba4c43084bec93080d7083cf04dbaf5}
+      \strng{authorfullhash}{3daa3d0828d6f82f69ad8a2655ec299e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Investigating X-ray Emission in the GeV-emitting Compact Symmetric Objects PKS 1718-649 and TXS 1146+596}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2401.16479
+      \endverb
+    \endentry
+    \entry{Ghisellini_2009}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=17574b9eef14238f7cff5591517bea5f}{%
+           family={Ghisellini},
+           familyi={G\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=253006ee62a7b6b44da40dde7b81fe21}{%
+           family={Tavecchio},
+           familyi={T\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
+      \strng{namehash}{01ba5625d65bd1da1ed62ec4d362aa9a}
+      \strng{fullhash}{01ba5625d65bd1da1ed62ec4d362aa9a}
+      \strng{bibnamehash}{01ba5625d65bd1da1ed62ec4d362aa9a}
+      \strng{authorbibnamehash}{01ba5625d65bd1da1ed62ec4d362aa9a}
+      \strng{authornamehash}{01ba5625d65bd1da1ed62ec4d362aa9a}
+      \strng{authorfullhash}{01ba5625d65bd1da1ed62ec4d362aa9a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1365-2966}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Canonical high-power blazars}
+      \field{volume}{397}
+      \field{year}{2009}
+      \field{pages}{985\bibrangedash 1002}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1111/j.1365-2966.2009.15007.x
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1111/j.1365-2966.2009.15007.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1365-2966.2009.15007.x
+      \endverb
+    \endentry
+    \entry{hogg2000distance}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a78b8e911ca3f3ee978a4dfb1e7c1c90}{%
+           family={Hogg},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{fullhash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{bibnamehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{authorbibnamehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{authornamehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{authorfullhash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{Distance measures in cosmology}
+      \field{year}{2000}
+      \verb{eprint}
+      \verb astro-ph/9905116
+      \endverb
+    \endentry
+    \entry{kiehlmann2023compact}{misc}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=44494b5803b72913657897629c786df9}{%
+           family={Kiehlmann},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b378dd4332fffb19cbdecbdb6aa159e}{%
+           family={Lister},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a105dc15853a5c9e611ece9b50c27dca}{%
+           family={Readhead},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi C.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b466df8523e5051b161b5d2b7fffdea}{%
+           family={Liodakis},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d0521d54283b82c288773dc5e80407f}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fec540b5c8f45e50e45d4760c12d5f1}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a9f6fe3e1a72999e49590f8d75ef13c}{%
+           family={Sheldahl},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b41e2b7f06d9be6c80e77ef4af5818a}{%
+           family={Siemiginowska},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99fd5ef26014532f0cb3acd41ae6f99f}{%
+           family={Tassis},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bea843ebf0aaae437c20fc236e4fbaee}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={G.\bibnamedelimi B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a8ba36467451ff2cb71b41be67db773}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={P.\bibnamedelimi N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d482a104d54bebeda4f7c99692f92a42}
+      \strng{fullhash}{6f4b35d3c162be986282c33664d12456}
+      \strng{bibnamehash}{d482a104d54bebeda4f7c99692f92a42}
+      \strng{authorbibnamehash}{d482a104d54bebeda4f7c99692f92a42}
+      \strng{authornamehash}{d482a104d54bebeda4f7c99692f92a42}
+      \strng{authorfullhash}{6f4b35d3c162be986282c33664d12456}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Compact Symmetric Objects -- I Towards a Comprehensive Bona Fide Catalog}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.11357
+      \endverb
+    \endentry
+    \entry{readhead2023compact}{misc}{}
+      \name{author}{21}{}{%
+        {{un=0,uniquepart=base,hash=a105dc15853a5c9e611ece9b50c27dca}{%
+           family={Readhead},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi C.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65b3338352a86cb928faa47577973ed3}{%
+           family={Ravi},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dc2697600d02df949124ac1548ce5d0}{%
+           family={Blandford},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d22f059ea41b07c35137e93a79f983}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f416f8a7cb0ad1948a32f9695403752}{%
+           family={Somalwar},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24f20f24635fe2cd259d38c4e35c48fc}{%
+           family={Begelman},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d42d6f337ce9df16b2f67ceb0a5f63cd}{%
+           family={Birkinshaw},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b466df8523e5051b161b5d2b7fffdea}{%
+           family={Liodakis},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b378dd4332fffb19cbdecbdb6aa159e}{%
+           family={Lister},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fec540b5c8f45e50e45d4760c12d5f1}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bea843ebf0aaae437c20fc236e4fbaee}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={G.\bibnamedelimi B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a8ba36467451ff2cb71b41be67db773}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={P.\bibnamedelimi N.},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b924e5dd5b41e502dddf00c5942122}{%
+           family={Globus},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44494b5803b72913657897629c786df9}{%
+           family={Kiehlmann},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81d4516b931f775eed98bc905cc08fc7}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a1e7dedb1e6351ffa7d40df178deb42}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d0521d54283b82c288773dc5e80407f}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=311080a868bfb089e9f182c24bb71ee8}{%
+           family={Pavlidou},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a9f6fe3e1a72999e49590f8d75ef13c}{%
+           family={Sheldahl},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b41e2b7f06d9be6c80e77ef4af5818a}{%
+           family={Siemiginowska},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99fd5ef26014532f0cb3acd41ae6f99f}{%
+           family={Tassis},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a00135a1fa93f70ed22adcbb05ee945d}
+      \strng{fullhash}{f9a4e158d6895d0eb8d6d2f1d04e691a}
+      \strng{bibnamehash}{a00135a1fa93f70ed22adcbb05ee945d}
+      \strng{authorbibnamehash}{a00135a1fa93f70ed22adcbb05ee945d}
+      \strng{authornamehash}{a00135a1fa93f70ed22adcbb05ee945d}
+      \strng{authorfullhash}{f9a4e158d6895d0eb8d6d2f1d04e691a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Compact Symmetric Objects -- III Evolution of the High-Luminosity Branch and a Possible Connection with Tidal Disruption Events}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2303.11361
+      \endverb
+    \endentry
+    \entry{sullivan2024smallscale}{misc}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=05726d6f13dae241a3a96a8db2b9ebfc}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f3a24a5b0b6f8d13667d43da4a25dc9}{%
+           family={Blandford},
+           familyi={B\bibinitperiod},
+           given={Roger\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3891274c9912e1299b8df2727b2acf62}{%
+           family={Begelman},
+           familyi={B\bibinitperiod},
+           given={Mitchell\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20a560357285faf15ca3b7c23504e03c}{%
+           family={Birkinshaw},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afe9eff5c00f0451eb92c5d9f214d4ca}{%
+           family={Readhead},
+           familyi={R\bibinitperiod},
+           given={Anthony\bibnamedelimb C.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{577f02378333c6992670bc9d2a3e30ca}
+      \strng{fullhash}{f262958f13c67f90710c9acc4af14991}
+      \strng{bibnamehash}{577f02378333c6992670bc9d2a3e30ca}
+      \strng{authorbibnamehash}{577f02378333c6992670bc9d2a3e30ca}
+      \strng{authornamehash}{577f02378333c6992670bc9d2a3e30ca}
+      \strng{authorfullhash}{f262958f13c67f90710c9acc4af14991}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Small-scale radio jets and tidal disruption events: A theory of high-luminosity compact symmetric objects}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2401.14399
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
