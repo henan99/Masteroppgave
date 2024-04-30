@@ -248,6 +248,49 @@
       \verb http://dx.doi.org/10.1111/j.1365-2966.2009.15007.x
       \endverb
     \endentry
+    \entry{Hirotani_2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe245e6ff1ec5e5d816c4769dd5fe886}{%
+           family={Hirotani},
+           familyi={H\bibinitperiod},
+           given={Kouichi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Astronomical Society}%
+      }
+      \strng{namehash}{fe245e6ff1ec5e5d816c4769dd5fe886}
+      \strng{fullhash}{fe245e6ff1ec5e5d816c4769dd5fe886}
+      \strng{bibnamehash}{fe245e6ff1ec5e5d816c4769dd5fe886}
+      \strng{authorbibnamehash}{fe245e6ff1ec5e5d816c4769dd5fe886}
+      \strng{authornamehash}{fe245e6ff1ec5e5d816c4769dd5fe886}
+      \strng{authorfullhash}{fe245e6ff1ec5e5d816c4769dd5fe886}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Kinetic Luminosity and Composition of Active Galactic Nuclei Jets}
+      \field{volume}{619}
+      \field{year}{2005}
+      \field{pages}{73\bibrangedash 85}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1086/426497
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1086/426497
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1086/426497
+      \endverb
+    \endentry
     \entry{hogg2000distance}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=a78b8e911ca3f3ee978a4dfb1e7c1c90}{%
@@ -365,6 +408,38 @@
       \verb{eprint}
       \verb 2303.11357
       \endverb
+    \endentry
+    \entry{1983ApJ...264..296M}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5da2b07c17cc38b0bd515f7fdca66263}{%
+           family={Marscher},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5da2b07c17cc38b0bd515f7fdca66263}
+      \strng{fullhash}{5da2b07c17cc38b0bd515f7fdca66263}
+      \strng{bibnamehash}{5da2b07c17cc38b0bd515f7fdca66263}
+      \strng{authorbibnamehash}{5da2b07c17cc38b0bd515f7fdca66263}
+      \strng{authornamehash}{5da2b07c17cc38b0bd515f7fdca66263}
+      \strng{authorfullhash}{5da2b07c17cc38b0bd515f7fdca66263}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{apj}
+      \field{title}{Accurate formula for the self-Compton X-ray flux density from a uniform, spherical, compact radio source.}
+      \field{volume}{264}
+      \field{year}{1983}
+      \field{pages}{296\bibrangedash 297}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1086/160597
+      \endverb
+      \keyw{Compton Effect,Quasars,Radiant Flux Density,Radio Sources (Astronomy),X Ray Astronomy,Synchrotron Radiation,Astrophysics}
     \endentry
     \entry{readhead2023compact}{misc}{}
       \name{author}{21}{}{%

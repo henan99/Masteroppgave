@@ -149,6 +149,8 @@ INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\was\upgreek.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\was\upgreek.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\bbold\bbold.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\bbold\bbold.sty
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\relsize\relsize.sty
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\relsize\relsize.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
@@ -263,14 +265,18 @@ INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
-INPUT .\Master.lof
-INPUT .\Master.lof
-INPUT Master.lof
+INPUT .\Master.toc
+INPUT .\Master.toc
+INPUT Master.toc
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm5.tfm
+OUTPUT Master.toc
+INPUT .\Master.lof
+INPUT .\Master.lof
+INPUT Master.lof
 OUTPUT Master.lof
 INPUT .\Master.lot
 INPUT .\Master.lot
@@ -283,6 +289,29 @@ INPUT .\comsology_dist.tex
 INPUT .\comsology_dist.tex
 INPUT comsology_dist.tex
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\high_energy_part.tex
+INPUT .\high_energy_part.tex
+INPUT high_energy_part.tex
+INPUT .\Acc_probes.tex
+INPUT .\Acc_probes.tex
+INPUT Acc_probes.tex
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SYN_spec.jpg
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Radiative_Transfer.png
+INPUT .\AGN.tex
+INPUT .\AGN.tex
+INPUT AGN.tex
 INPUT .\Compact symmetric objects.tex
 INPUT .\Compact symmetric objects.tex
 INPUT Compact symmetric objects.tex
@@ -307,6 +336,12 @@ INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
+INPUT .\CSO.tex
+INPUT .\CSO.tex
+INPUT CSO.tex
+INPUT .\Discussion.tex
+INPUT .\Discussion.tex
+INPUT Discussion.tex
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm

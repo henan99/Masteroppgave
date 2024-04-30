@@ -1,2 +1,3 @@
 Døvle
 bolometric
+SED

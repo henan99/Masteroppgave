@@ -1,12 +1,14 @@
 # Fdb version 4
-["biber Master"] 1713952677 "Master.bcf" "Master.bbl" "Master" 1713952689 0
-  "./bibfile.bib" 1713187492 31525 a1c62d698f7c6afd5960c56c2e86dd45 ""
-  "Master.bcf" 1713952688 108887 c7e0f03b5248c9e1ceaf7b8856942cdf "pdflatex"
+["biber Master"] 1714483001 "Master.bcf" "Master.bbl" "Master" 1714483021 0
+  "./bibfile.bib" 1714475700 32556 a2f13e190a41b3d5b32cd7e8c74e34f9 ""
+  "Master.bcf" 1714483020 109453 b2e239c0539812b2409692a09923ab81 "pdflatex"
   (generated)
   "Master.bbl"
   "Master.blg"
   (rewritten before read)
-["pdflatex"] 1713952686 "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Master_file/Master.tex" "Master.pdf" "Master" 1713952689 0
+["pdflatex"] 1714483019 "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Master_file/Master.tex" "Master.pdf" "Master" 1714483021 0
+  "AGN.tex" 1712344951 791 72febd205379317866922ca2df6d0d07 ""
+  "Acc_probes.tex" 1714483018 7525 e505e0f2cd5cb377e46827651a609ccf ""
   "C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1710685760 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/henri/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1699867245 24212835 1bf5a7d890c7b4c1680c4113af1d4119 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -136,6 +138,7 @@
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pdfpages.sty" 1671486494 54859 c2b191f8d736ddb86177723cc23c30a9 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pppdftex.def" 1671486494 6591 7c9b26513263b04a3b43be6474a4ef4d ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
+  "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/relsize/relsize.sty" 1365244030 15542 c4cc3164fe24f2f2fbb06eb71b1da4c4 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1698867131 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
@@ -146,20 +149,26 @@
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/was/upgreek.sty" 1665850770 5794 9054e31be15d93f1e6bd28cca2b6643f ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png" 1712073613 102737 e185563194f98ce47253284d8bd67d9a ""
+  "C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png" 1714479549 28533 70e5e50af48b4e68efbda7c3abe7c4bf ""
   "C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png" 1713167730 43339 ab65292e8e6f2960b12a2cb92dd01fe0 ""
   "C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png" 1712073613 61018 a050bb61038c4ce92904d28b22ea6908 ""
-  "Compact symmetric objects.tex" 1713952672 15080 306d46ad3946c75135ec7189c1bfaf0b ""
+  "C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg" 1714475927 31062 63db33369e022932152cd1d24529b3e2 ""
+  "CSO.tex" 1714392504 48 f1d82f328de4b85cad0e2fdd70b194d5 ""
+  "Compact symmetric objects.tex" 1714141223 15856 a2eedb0884707a62918acaf8eb81512a ""
+  "Discussion.tex" 1714392861 20 0e9daa63e73e84f4a684b671b2ca76db ""
   "Introduction.tex" 1712344951 306 bc3445ab5aec571627c24a3c8b147ab2 ""
-  "Master.aux" 1713952688 5643 df4f22dcb53d21b86d92fe14212728a7 "pdflatex"
-  "Master.bbl" 1713952681 23196 ad00dde44103569f0290bfb5d3ee3150 "biber Master"
-  "Master.lof" 1713952688 512 3bf8ccb46e3defd36b1c7790f03ac73b "pdflatex"
-  "Master.lot" 1713952688 139 57eaf29c3a3e3efb708d44d5c8d07e6f "pdflatex"
-  "Master.out" 1713952688 1854 b9a14c5b8baf0ae64b5fba35250d8e8a "pdflatex"
-  "Master.run.xml" 1713952688 2322 5f1c7b8411aeac2735dda4f6b7353851 "pdflatex"
-  "Master.tex" 1713187448 2669 3aab0abea4c02e235661951730c8f14f ""
+  "Master.aux" 1714483020 9941 01d1676f03f47dd9b126833ad35abb6c "pdflatex"
+  "Master.bbl" 1714483004 26244 d70b47e3e28554ec8b2ccae0377efffb "biber Master"
+  "Master.lof" 1714483020 1040 f8f7cf90155f4c3ab4aca0d8605ed976 "pdflatex"
+  "Master.lot" 1714483020 140 f59d7891948dba59cfc99de6a393dbd2 "pdflatex"
+  "Master.out" 1714483020 4882 bcaf79d996c510abb186c76fa22b2b0f "pdflatex"
+  "Master.run.xml" 1714483020 2322 5f1c7b8411aeac2735dda4f6b7353851 "pdflatex"
+  "Master.tex" 1714475600 2851 ec8b010c0d54cf2a8a4ad58c36dce44e ""
+  "Master.toc" 1714483020 2534 7303a65825c0f679b21ad678d0dca33d "pdflatex"
   "Plots/Logo-Ntnu.svg.png" 1699867053 33858 c329779cdda9190fa893270937323f84 ""
-  "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Master_file/Master.tex" 1713187448 2669 3aab0abea4c02e235661951730c8f14f ""
+  "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Master_file/Master.tex" 1714475600 2851 ec8b010c0d54cf2a8a4ad58c36dce44e ""
   "comsology_dist.tex" 1710845555 7897 abb3d79f66f15f1ba301c268ac960433 ""
+  "high_energy_part.tex" 1714475446 1704 93813f69aa845d68c39f711da2f4ebe0 ""
   (generated)
   "Master.aux"
   "Master.bcf"
@@ -169,4 +178,5 @@
   "Master.out"
   "Master.pdf"
   "Master.run.xml"
+  "Master.toc"
   (rewritten before read)
