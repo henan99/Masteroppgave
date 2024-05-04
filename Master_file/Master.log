@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.13)  30 APR 2024 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.13)  4 MAY 2024 18:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -809,7 +809,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 \c@lstlisting=\count456
-<Plots/Logo-Ntnu.svg.png, id=119, 1204.5pt x 1204.5pt>
+<Plots/Logo-Ntnu.svg.png, id=135, 1204.5pt x 1204.5pt>
 File: Plots/Logo-Ntnu.svg.png Graphic file (type png)
 <use Plots/Logo-Ntnu.svg.png>
 Package pdftex.def Info: Plots/Logo-Ntnu.svg.png  used on input line 71.
@@ -828,57 +828,87 @@ Package pdftex.def Info: Plots/Logo-Ntnu.svg.png  used on input line 71.
 \tf@lot=\write7
 \openout7 = `Master.lot'.
 
- [5] (Introduction.tex) [6] (comsology_dist.tex [7] [8]) [9] (high_energy_part.tex) [10] (Acc_probes.tex
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg, id=279, 792.9625pt x 287.0725pt>
+ [5] (Introduction.tex) [6] (comsology_dist.tex [7] [8]) [9] (high_energy_part.tex [10]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf, id=325, 578.16pt x 520.34402pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf Graphic file (type pdf)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf  used on input line 76.
+(pdftex.def)             Requested size: 234.87769pt x 211.38924pt.
+ [11 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf>] [12]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png, id=383, 572.63937pt x 388.95313pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png  used on input line 135.
+(pdftex.def)             Requested size: 375.80574pt x 255.26172pt.
+ [13 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png>]) [14] (Acc_probes.tex [15]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg, id=409, 152.60161pt x 84.69437pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg Graphic file (type jpg)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg  used on input line 65.
+(pdftex.def)             Requested size: 328.82733pt x 182.508pt.
+ [16 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png, id=418, 483.8075pt x 214.30063pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png  used on input line 76.
+(pdftex.def)             Requested size: 328.82733pt x 145.65709pt.
+ [17 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png>] [18] [19] [20]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg, id=468, 792.9625pt x 287.0725pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg Graphic file (type jpg)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg  used on input line 29.
-(pdftex.def)             Requested size: 234.87769pt x 85.0317pt.
- [11] [12 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png, id=302, 359.84438pt x 149.55875pt>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg  used on input line 249.
+(pdftex.def)             Requested size: 469.75539pt x 170.06778pt.
+ [21 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png, id=481, 359.84438pt x 149.55875pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png  used on input line 92.
-(pdftex.def)             Requested size: 234.87769pt x 97.6228pt.
-) [13 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png>] (AGN.tex) [14] (Compact symmetric objects.tex [15] [16] [17]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png, id=379, 722.7pt x 505.89pt>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png  used on input line 312.
+(pdftex.def)             Requested size: 328.82733pt x 136.67831pt.
+ [22] [23 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png, id=504, 626.34pt x 539.51563pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png  used on input line 384.
+(pdftex.def)             Requested size: 234.87769pt x 202.31786pt.
+ [24]) [25 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png>] (AGN.tex) [26] (Compact symmetric objects.tex [27]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png, id=571, 722.7pt x 505.89pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png  used on input line 185.
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png  used on input line 69.
 (pdftex.def)             Requested size: 234.87769pt x 164.4123pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png, id=380, 722.7pt x 505.89pt>
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png, id=572, 722.7pt x 505.89pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png  used on input line 193.
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png  used on input line 77.
 (pdftex.def)             Requested size: 234.87769pt x 164.4123pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png, id=381, 722.7pt x 505.89pt>
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png, id=573, 722.7pt x 505.89pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png  used on input line 200.
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png  used on input line 84.
 (pdftex.def)             Requested size: 234.87769pt x 164.4123pt.
- [18] [19 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png>]) [20] (CSO.tex) [21] (Discussion.tex) [22] [23] (Master.aux)
+ [28 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png>] [29 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png>]) [30] (CSO.tex) [31] (Discussion.tex) [32] [33] [34] (Master.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
 Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: BCAF79D996C510ABB186C76FA22B2B0F;4882.
+(rerunfilecheck)             Checksum: 886D4F216E784591159AE5B13E5A02EE;5800.
 Package logreq Info: Writing requests to 'Master.run.xml'.
 \openout1 = `Master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22930 strings out of 474592
- 405333 string characters out of 5745798
- 1940533 words of memory out of 5000000
- 44646 multiletter control sequences out of 15000+600000
+ 23092 strings out of 474592
+ 411650 string characters out of 5745798
+ 1949533 words of memory out of 5000000
+ 44752 multiletter control sequences out of 15000+600000
  566879 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,13n,81p,1280b,1347s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Master.pdf (24 pages, 586923 bytes).
+ 68i,13n,81p,1912b,1464s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Master.pdf (35 pages, 2059466 bytes).
 PDF statistics:
- 543 PDF objects out of 1000 (max. 8388607)
- 161 named destinations out of 1000 (max. 500000)
- 263 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 778 PDF objects out of 1000 (max. 8388607)
+ 217 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
