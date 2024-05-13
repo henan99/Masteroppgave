@@ -19,6 +19,238 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{PhysRevLett.125.121106}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=0e49f55352d78f02006d44a8d25e6940}{%
+           family={Aab},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f63e6ed1d431eabc74a4c4a543330e2b}{%
+           family={Abreu},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d744d1952913008ddc0773b1286cb00}{%
+           family={Aglietta},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0990bdd75e1aa364ce73cd8ec5a5418d}{%
+           family={Albury},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eab66dd8e0e039f64a0bd681ecb5389b}{%
+           family={Allekotte},
+           familyi={A\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=155735a812c014eca3befbf6ff54e441}{%
+           family={Almela},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d0480ec3a02ef3c0a8f6ae5b64e4178}{%
+           family={Alvarez\bibnamedelima Castillo},
+           familyi={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{595cd31c17fcb34167c1e04334d75d74}
+      \strng{fullhash}{5761d79b9bc9cc4875c94d30a91d5efb}
+      \strng{bibnamehash}{595cd31c17fcb34167c1e04334d75d74}
+      \strng{authorbibnamehash}{595cd31c17fcb34167c1e04334d75d74}
+      \strng{authornamehash}{595cd31c17fcb34167c1e04334d75d74}
+      \strng{authorfullhash}{5761d79b9bc9cc4875c94d30a91d5efb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{12}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{09}
+      \field{title}{Features of the Energy Spectrum of Cosmic Rays above $2.5$ Using the Pierre Auger Observatory}
+      \field{volume}{125}
+      \field{year}{2020}
+      \field{pages}{121106}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.125.121106
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.125.121106
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.125.121106
+      \endverb
+    \endentry
+    \entry{Abbasi_2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ccddba16b32b032d8db0befa8e6c0dbf}{%
+           family={Abbasi},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=682d80d4153127d79ca8c4c06bde6d1d}{%
+           family={Ackermann},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=314193fe80343b80844724028259d80b}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3f8aca2ba521a170155f4c8e1c664c0}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The American Astronomical Society}%
+      }
+      \strng{namehash}{4a76b0d9999c1010be9882ad434ba463}
+      \strng{fullhash}{c1e93d43cbd49a21f46702e1e7adce86}
+      \strng{bibnamehash}{4a76b0d9999c1010be9882ad434ba463}
+      \strng{authorbibnamehash}{4a76b0d9999c1010be9882ad434ba463}
+      \strng{authornamehash}{4a76b0d9999c1010be9882ad434ba463}
+      \strng{authorfullhash}{c1e93d43cbd49a21f46702e1e7adce86}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{Improved Characterization of the Astrophysical Muon–neutrino Flux with 9.5 Years of IceCube Data}
+      \field{volume}{928}
+      \field{year}{2022}
+      \field{pages}{50}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3847/1538-4357/ac4d29
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.3847/1538-4357/ac4d29
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.3847/1538-4357/ac4d29
+      \endverb
+    \endentry
+    \entry{Abdul_Halim_2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ab98d0562f9d1bc732eebe1756246bbb}{%
+           family={Abdul\bibnamedelima Halim},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f63e6ed1d431eabc74a4c4a543330e2b}{%
+           family={Abreu},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d744d1952913008ddc0773b1286cb00}{%
+           family={Aglietta},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2b2e885db4fe8e911df62d6198302f8}{%
+           family={Allekotte},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{d28db9593b92c74c38cf761dd9df26f4}
+      \strng{fullhash}{c2b5d364a66c8d2a06ad571f62107c3a}
+      \strng{bibnamehash}{d28db9593b92c74c38cf761dd9df26f4}
+      \strng{authorbibnamehash}{d28db9593b92c74c38cf761dd9df26f4}
+      \strng{authornamehash}{d28db9593b92c74c38cf761dd9df26f4}
+      \strng{authorfullhash}{c2b5d364a66c8d2a06ad571f62107c3a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1475-7516}
+      \field{journaltitle}{Journal of Cosmology and Astroparticle Physics}
+      \field{number}{05}
+      \field{title}{Constraining the sources of ultra-high-energy cosmic rays across and above the ankle with the spectrum and composition data measured at the Pierre Auger Observatory}
+      \field{volume}{2023}
+      \field{year}{2023}
+      \field{pages}{024}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1475-7516/2023/05/024
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1088/1475-7516/2023/05/024
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1088/1475-7516/2023/05/024
+      \endverb
+    \endentry
+    \entry{scholarpedia_accretion_discs}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fc0385b8ae06c7998461e4a18c010b4d}{%
+           family={Abramowicz},
+           familyi={A\bibinitperiod},
+           given={Marek\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ac0348e37c71295fe7a26c6714580be}{%
+           family={Straub},
+           familyi={S\bibinitperiod},
+           given={Dr.\bibnamedelimi Odele},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f37632eaf0fd126af84af2e11e2aa779}
+      \strng{fullhash}{f37632eaf0fd126af84af2e11e2aa779}
+      \strng{bibnamehash}{f37632eaf0fd126af84af2e11e2aa779}
+      \strng{authorbibnamehash}{f37632eaf0fd126af84af2e11e2aa779}
+      \strng{authornamehash}{f37632eaf0fd126af84af2e11e2aa779}
+      \strng{authorfullhash}{f37632eaf0fd126af84af2e11e2aa779}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{3.12.2023}
+      \field{title}{Accretion Discs}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb http://www.scholarpedia.org/article/Accretion_discs
+      \endverb
+      \verb{url}
+      \verb http://www.scholarpedia.org/article/Accretion_discs
+      \endverb
+    \endentry
     \entry{Alves_2018}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=bc6d06dbac3e8247a77f15b87ac08c7e}{%
@@ -202,6 +434,44 @@
       \verb http://dx.doi.org/10.3389/fspas.2019.00023
       \endverb
     \endentry
+    \entry{Andeen_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ff1863fe70937f13705fb033e2bff25e}{%
+           family={Andeen},
+           familyi={A\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=236dd2d25dd7728a7b344d37f2521ebe}{%
+           family={Plum},
+           familyi={P\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6bf7b2c45bb3b4daf262016d3f15552d}
+      \strng{fullhash}{6bf7b2c45bb3b4daf262016d3f15552d}
+      \strng{bibnamehash}{6bf7b2c45bb3b4daf262016d3f15552d}
+      \strng{authorbibnamehash}{6bf7b2c45bb3b4daf262016d3f15552d}
+      \strng{authornamehash}{6bf7b2c45bb3b4daf262016d3f15552d}
+      \strng{authorfullhash}{6bf7b2c45bb3b4daf262016d3f15552d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EPJ Web of Conferences}
+      \field{month}{01}
+      \field{title}{Latest Cosmic Ray Results from IceTop and IceCube}
+      \field{volume}{210}
+      \field{year}{2019}
+      \field{pages}{03005}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1051/epjconf/201921003005
+      \endverb
+    \endentry
     \entry{Balasubramaniam_2021}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=a875ad4c5ee9ee78ab4fdbce63a2ef35}{%
@@ -318,93 +588,104 @@
       \field{title}{High Energy Dimensioning the Quantum Space-Time of the Electron}
       \field{year}{2020}
     \endentry
-    \entry{bronzini2024investigating}{misc}{}
-      \name{author}{11}{}{%
-        {{un=0,uniquepart=base,hash=41589b096a63ba85e4a19eb4156f0f5b}{%
-           family={Bronzini},
+    \entry{Wei-Hao_2003}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=78a8fc47aafd28b8db2495d9863fa4a7}{%
+           family={Bian},
            familyi={B\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
+           given={Wei-Hao},
+           giveni={W\bibinithyphendelim H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c280469241f12025ffb8ff6d5b4c6dc0}{%
-           family={Migliori},
-           familyi={M\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=939f56551940c43c52cd1b2e9e471d02}{%
-           family={Vignali},
-           familyi={V\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ab09c014543dc357d49fc5986b95c2b7}{%
-           family={Sobolewska},
-           familyi={S\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e1a051e8b3a5a34ead877be3264706e7}{%
-           family={Stawarz},
-           familyi={S\bibinitperiod},
-           given={Ł.},
-           giveni={Ł\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7b41e2b7f06d9be6c80e77ef4af5818a}{%
-           family={Siemiginowska},
-           familyi={S\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=479c59704795902615a13cd5b386ff83}{%
-           family={Orienti},
-           familyi={O\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7f60b3a55626098e877f6d3e4c149f33}{%
-           family={D'Ammando},
-           familyi={D\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=446fa78fd9c2692b6afd9ba80af7699d}{%
-           family={Giroletti},
-           familyi={G\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a9cd780ab1e25cca4320d7fe365008d7}{%
-           family={Principe},
-           familyi={P\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a875ad4c5ee9ee78ab4fdbce63a2ef35}{%
-           family={Balasubramaniam},
-           familyi={B\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod},
+        {{un=0,uniquepart=base,hash=70f6410a83fbd173f69d185fc9ef1371}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yong-Heng},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{6ba4c43084bec93080d7083cf04dbaf5}
-      \strng{fullhash}{3daa3d0828d6f82f69ad8a2655ec299e}
-      \strng{bibnamehash}{6ba4c43084bec93080d7083cf04dbaf5}
-      \strng{authorbibnamehash}{6ba4c43084bec93080d7083cf04dbaf5}
-      \strng{authornamehash}{6ba4c43084bec93080d7083cf04dbaf5}
-      \strng{authorfullhash}{3daa3d0828d6f82f69ad8a2655ec299e}
+      \strng{namehash}{ed25c8660bedf269a46264a69de6778f}
+      \strng{fullhash}{ed25c8660bedf269a46264a69de6778f}
+      \strng{bibnamehash}{ed25c8660bedf269a46264a69de6778f}
+      \strng{authorbibnamehash}{ed25c8660bedf269a46264a69de6778f}
+      \strng{authornamehash}{ed25c8660bedf269a46264a69de6778f}
+      \strng{authorfullhash}{ed25c8660bedf269a46264a69de6778f}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{eprintclass}{astro-ph.HE}
-      \field{eprinttype}{arXiv}
-      \field{title}{Investigating X-ray Emission in the GeV-emitting Compact Symmetric Objects PKS 1718-649 and TXS 1146+596}
-      \field{year}{2024}
+      \field{abstract}{{We used the standard geometrical-thin accretion theory to obtain the accretion rates in Seyfert 1 galaxies and quasars. Combining the accretion rates with the bolometric luminosity, we obtained the accretion efficiency. We found that most Seyfert 1 galaxies and radio-quiet quasars have lower accretion efficiencies, while most radio-loud quasars possess higher accretion efficiencies. This finding further implies that most of the radio-loud quasars possess Kerr black holes, while Seyfert 1 galaxies and radio-quiet quasars may not possess Kerr black holes. Considering the difference in the accretion efficiency, we found that there is a strong correlation between the accretion rate in units of the Eddington accretion rate and the width of the $\\mathrm\\{H\\}\\beta\\$ emission line, and that most AGNs are not accreting at super-Eddington rates.}}
+      \field{issn}{0004-6264}
+      \field{journaltitle}{Publications of the Astronomical Society of Japan}
+      \field{month}{06}
+      \field{number}{3}
+      \field{title}{{Accretion Rates and the Accretion Efficiency in AGNs}}
+      \field{volume}{55}
+      \field{year}{2003}
+      \field{pages}{599\bibrangedash 603}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1093/pasj/55.3.599
+      \endverb
       \verb{eprint}
-      \verb 2401.16479
+      \verb https://academic.oup.com/pasj/article-pdf/55/3/599/17447902/pasj55-0599.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/pasj/55.3.599
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/pasj/55.3.599
+      \endverb
+    \endentry
+    \entry{Blandford_1977}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0dc2697600d02df949124ac1548ce5d0}{%
+           family={Blandford},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec8ee403490b22e19151f20c1db89c71}{%
+           family={Znajek},
+           familyi={Z\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43b1395090e0fefab73dd47f858d9cf7}
+      \strng{fullhash}{43b1395090e0fefab73dd47f858d9cf7}
+      \strng{bibnamehash}{43b1395090e0fefab73dd47f858d9cf7}
+      \strng{authorbibnamehash}{43b1395090e0fefab73dd47f858d9cf7}
+      \strng{authornamehash}{43b1395090e0fefab73dd47f858d9cf7}
+      \strng{authorfullhash}{43b1395090e0fefab73dd47f858d9cf7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{When a rotating black hole is threaded by magnetic field lines supported by external currents flowing in an equatorial disc, an electric potential difference will be induced. If the field strength is large enough, the vacuum is unstable to a cascade production of electron–positron pairs and a surrounding force-free magnetosphere will be established. Under these circumstances it is demonstrated that energy and angular momentum will be extracted electromagnetically. As a further consequence it is shown that charge can never contribute significantly to the geometry of a rotating hole. The fundamental equations describing a stationary axisymmetric magnetosphere are derived and the details of the energy and angular momentum balance are discussed. A perturbation technique is developed which can be used to provide approximate solutions for slowly rotating holes. Solutions appropriate when the field lines threading the hole lie on conical and paraboloidal surfaces at large distances are described to illustrate this mechanism.These ideas are incorporated into a discussion of a model of active galactic nuclei containing a massive black hole surrounded by a magnetized accretion disc. In this model relativistic electrons can be accelerated at large distances from the hole and therefore will not incur serious losses, which is a defect of some existing models. In addition, if the field lines have paraboloidal shape, the energy will be beamed along antiparallel directions as observations of both compact and extended radio sources seem to require.}}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{{Electromagnetic extraction of energy from Kerr black holes}}
+      \field{volume}{179}
+      \field{year}{1977}
+      \field{pages}{433\bibrangedash 456}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1093/mnras/179.3.433
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/mnras/article-pdf/179/3/433/9333653/mnras179-0433.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/mnras/179.3.433
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/mnras/179.3.433
       \endverb
     \endentry
     \entry{ThePierreAugercollaboration_2013}{article}{}
@@ -444,6 +725,65 @@
       \endverb
       \verb{url}
       \verb https://dx.doi.org/10.1088/1475-7516/2013/05/009
+      \endverb
+    \endentry
+    \entry{thepierreaugercollaboration2017pierre}{misc}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=2f8e26ac7ffcb739e2b3e429bcfb0f7a}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={The\bibnamedelimb Pierre\bibnamedelima Auger},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e49f55352d78f02006d44a8d25e6940}{%
+           family={Aab},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f63e6ed1d431eabc74a4c4a543330e2b}{%
+           family={Abreu},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d744d1952913008ddc0773b1286cb00}{%
+           family={Aglietta},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff17d01e448c257d7be972e1e25e072b}{%
+           family={Albuquerque},
+           familyi={A\bibinitperiod},
+           given={I.\bibnamedelimi F.\bibnamedelimi M.},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eab66dd8e0e039f64a0bd681ecb5389b}{%
+           family={Allekotte},
+           familyi={A\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d32b7870f78d4d805a3e26e523a59fb1}
+      \strng{fullhash}{31080187020b9b231bb95b84e50fb777}
+      \strng{bibnamehash}{d32b7870f78d4d805a3e26e523a59fb1}
+      \strng{authorbibnamehash}{d32b7870f78d4d805a3e26e523a59fb1}
+      \strng{authornamehash}{d32b7870f78d4d805a3e26e523a59fb1}
+      \strng{authorfullhash}{31080187020b9b231bb95b84e50fb777}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{title}{The Pierre Auger Observatory: Contributions to the 35th International Cosmic Ray Conference (ICRC 2017)}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1708.06592
       \endverb
     \endentry
     \entry{10.1093/mnras/stw2666}{article}{}
@@ -577,6 +917,40 @@
       \field{month}{01}
       \field{title}{Maximum Particle Energies by Fermi Acceleration and the Origin of Cosmic Rays above the Knee}
       \field{year}{2001}
+    \endentry
+    \entry{LectureA}{presentation}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=685d05057510585d4cd75f57ddbbe31d}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Brendan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Pennsylvania State University}%
+      }
+      \strng{namehash}{685d05057510585d4cd75f57ddbbe31d}
+      \strng{fullhash}{685d05057510585d4cd75f57ddbbe31d}
+      \strng{bibnamehash}{685d05057510585d4cd75f57ddbbe31d}
+      \strng{authorbibnamehash}{685d05057510585d4cd75f57ddbbe31d}
+      \strng{authornamehash}{685d05057510585d4cd75f57ddbbe31d}
+      \strng{authorfullhash}{685d05057510585d4cd75f57ddbbe31d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Presentation}
+      \field{title}{IceCube Neutrino Telescope, Astroparticle Physics at the South Pole}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://slideplayer.com/slide/14534323/
+      \endverb
+      \verb{url}
+      \verb https://slideplayer.com/slide/14534323/
+      \endverb
     \endentry
     \entry{Ghisellini_2009}{article}{}
       \name{author}{2}{}{%
@@ -858,6 +1232,88 @@
       \endverb
       \keyw{Compton Effect,Quasars,Radiant Flux Density,Radio Sources (Astronomy),X Ray Astronomy,Synchrotron Radiation,Astrophysics}
     \endentry
+    \entry{MASON201597}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f4ccc730a0d32f689ae1cc6ba9bf1901}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Rachel\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f4ccc730a0d32f689ae1cc6ba9bf1901}
+      \strng{fullhash}{f4ccc730a0d32f689ae1cc6ba9bf1901}
+      \strng{bibnamehash}{f4ccc730a0d32f689ae1cc6ba9bf1901}
+      \strng{authorbibnamehash}{f4ccc730a0d32f689ae1cc6ba9bf1901}
+      \strng{authornamehash}{f4ccc730a0d32f689ae1cc6ba9bf1901}
+      \strng{authorfullhash}{f4ccc730a0d32f689ae1cc6ba9bf1901}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In these proceedings I briefly summarize our current understanding of the dusty torus of the AGN unified model: its structure, composition, and ideas about its origin and evolution. The paper is based on an invited review talk at the 7th Meeting on Cosmic Dust, which covered dust-related topics in areas from comets to debris disks and high-redshift galaxies. This is therefore intended to be an accessible, introductory overview of the torus with some emphasis on the solid-state spectral features observed.}
+      \field{issn}{0032-0633}
+      \field{journaltitle}{Planetary and Space Science}
+      \field{note}{Cosmic Dust VII}
+      \field{title}{Dust in the torus of the AGN unified model}
+      \field{volume}{116}
+      \field{year}{2015}
+      \field{pages}{97\bibrangedash 101}
+      \range{pages}{5}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.pss.2015.02.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032063315000483
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032063315000483
+      \endverb
+      \keyw{Dust,AGN,Unified model,Torus}
+    \endentry
+    \entry{Netzer_2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=76b977acc7aedd6db01b638808b18aa6}{%
+           family={Netzer},
+           familyi={N\bibinitperiod},
+           given={Hagai},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{76b977acc7aedd6db01b638808b18aa6}
+      \strng{fullhash}{76b977acc7aedd6db01b638808b18aa6}
+      \strng{bibnamehash}{76b977acc7aedd6db01b638808b18aa6}
+      \strng{authorbibnamehash}{76b977acc7aedd6db01b638808b18aa6}
+      \strng{authornamehash}{76b977acc7aedd6db01b638808b18aa6}
+      \strng{authorfullhash}{76b977acc7aedd6db01b638808b18aa6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
+      \field{number}{1}
+      \field{title}{Revisiting the Unified Model of Active Galactic Nuclei}
+      \field{volume}{53}
+      \field{year}{2015}
+      \field{pages}{365\bibrangedash 408}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1146/annurev-astro-082214-122302
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1146%2Fannurev-astro-082214-122302
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1146%2Fannurev-astro-082214-122302
+      \endverb
+    \endentry
     \entry{O_Sullivan_2009}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ec02f0bc08e008c95f57b57e3dd4415e}{%
@@ -1112,6 +1568,118 @@
       \verb 2303.11361
       \endverb
     \endentry
+    \entry{Astrobites}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f26ba8758c7f0e6551a4fb8bd590ffeb}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f26ba8758c7f0e6551a4fb8bd590ffeb}
+      \strng{fullhash}{f26ba8758c7f0e6551a4fb8bd590ffeb}
+      \strng{bibnamehash}{f26ba8758c7f0e6551a4fb8bd590ffeb}
+      \strng{authorbibnamehash}{f26ba8758c7f0e6551a4fb8bd590ffeb}
+      \strng{authornamehash}{f26ba8758c7f0e6551a4fb8bd590ffeb}
+      \strng{authorfullhash}{f26ba8758c7f0e6551a4fb8bd590ffeb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{15.11.2023}
+      \field{title}{Guide to Classification of Galaxies and AGNs}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://astrobites.org/guides/galaxy-and-agn-types/
+      \endverb
+      \verb{url}
+      \verb https://astrobites.org/guides/galaxy-and-agn-types/
+      \endverb
+    \endentry
+    \entry{Shields_1999}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8055401e643471ee64928aa17a2d764}{%
+           family={Shields},
+           familyi={S\bibinitperiod},
+           given={Gregory\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{a8055401e643471ee64928aa17a2d764}
+      \strng{fullhash}{a8055401e643471ee64928aa17a2d764}
+      \strng{bibnamehash}{a8055401e643471ee64928aa17a2d764}
+      \strng{authorbibnamehash}{a8055401e643471ee64928aa17a2d764}
+      \strng{authornamehash}{a8055401e643471ee64928aa17a2d764}
+      \strng{authorfullhash}{a8055401e643471ee64928aa17a2d764}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Publications of the Astronomical Society of the Pacific}
+      \field{number}{760}
+      \field{title}{A Brief History of Active Galactic Nuclei}
+      \field{volume}{111}
+      \field{year}{1999}
+      \field{pages}{661\bibrangedash 678}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1086/316378
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1086%2F316378
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1086%2F316378
+      \endverb
+    \endentry
+    \entry{Stanev_2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24b5d1b901a8c16d0db2e2e436be8a61}{%
+           family={Stanev},
+           familyi={S\bibinitperiod},
+           given={Todor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24b5d1b901a8c16d0db2e2e436be8a61}
+      \strng{fullhash}{24b5d1b901a8c16d0db2e2e436be8a61}
+      \strng{bibnamehash}{24b5d1b901a8c16d0db2e2e436be8a61}
+      \strng{authorbibnamehash}{24b5d1b901a8c16d0db2e2e436be8a61}
+      \strng{authornamehash}{24b5d1b901a8c16d0db2e2e436be8a61}
+      \strng{authorfullhash}{24b5d1b901a8c16d0db2e2e436be8a61}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We briefly describe the energy loss processes of ultrahigh-energy protons, heavier nuclei and γ-rays in interactions with the universal photon fields of the Universe. We then discuss the modification of the accelerated cosmic-ray energy spectrum in propagation by the energy loss processes and the charged cosmic-ray scattering in the extragalactic magnetic fields. The energy lost by the ultrahigh-energy cosmic rays goes into γ-rays and neutrinos that carry additional information about the sources of highest energy particles. The new experimental results of the HiRes and the Auger collaborations are discussed in view of the predictions from propagation calculations.}
+      \field{journaltitle}{New Journal of Physics}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{Propagation of ultrahigh-energy cosmic rays}
+      \field{volume}{11}
+      \field{year}{2009}
+      \field{pages}{065013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1367-2630/11/6/065013
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/1367-2630/11/6/065013
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/1367-2630/11/6/065013
+      \endverb
+    \endentry
     \entry{sullivan2024smallscale}{misc}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=05726d6f13dae241a3a96a8db2b9ebfc}{%
@@ -1163,6 +1731,147 @@
       \field{year}{2024}
       \verb{eprint}
       \verb 2401.14399
+      \endverb
+    \endentry
+    \entry{Tremblay_2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9520d6b0e06e6657a2825264d7a0649e}{%
+           family={Tremblay},
+           familyi={T\bibinitperiod},
+           given={S.\bibnamedelimi E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bea843ebf0aaae437c20fc236e4fbaee}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={G.\bibnamedelimi B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1234fcf87012f2a0d1ea1e1933932e5d}{%
+           family={Ortiz},
+           familyi={O\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e639322c76a224350a88142a7417625e}{%
+           family={Tremblay},
+           familyi={T\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e96b70dc07b409452a0ee46bfffdc94e}{%
+           family={Helmboldt},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c9d47edc3c0ef1898d8f22a8fb34c25}{%
+           family={Romani},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press (OUP)}%
+      }
+      \strng{namehash}{c0823554f14e7b415fdc23ceb539e323}
+      \strng{fullhash}{a1d196554251924e176fcad3d3031a7d}
+      \strng{bibnamehash}{c0823554f14e7b415fdc23ceb539e323}
+      \strng{authorbibnamehash}{c0823554f14e7b415fdc23ceb539e323}
+      \strng{authornamehash}{c0823554f14e7b415fdc23ceb539e323}
+      \strng{authorfullhash}{a1d196554251924e176fcad3d3031a7d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1365-2966}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Compact symmetric objects and supermassive binary black holes in the VLBA Imaging and Polarimetry Survey}
+      \field{volume}{459}
+      \field{year}{2016}
+      \field{pages}{820\bibrangedash 840}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1093/mnras/stw592
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1093/mnras/stw592
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1093/mnras/stw592
+      \endverb
+    \endentry
+    \entry{walg2013relativistic}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=908311a8c96846d3c47997f59039970d}{%
+           family={Walg},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ba06b868cd9e4cda069701b81affd69}{%
+           family={Achterberg},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b68a4f5006f6dc453ed434a6990267cb}{%
+           family={Markoff},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88ea82e6878ab19edf6abe32eed93c10}{%
+           family={Keppens},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1373daf7f1b71d480d418c603b6af345}{%
+           family={Meliani},
+           familyi={M\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d46640c9aa6c9a41708e1b3e94d582e0}
+      \strng{fullhash}{32853ed27f06e700eddaed75d3ac38ce}
+      \strng{bibnamehash}{d46640c9aa6c9a41708e1b3e94d582e0}
+      \strng{authorbibnamehash}{d46640c9aa6c9a41708e1b3e94d582e0}
+      \strng{authornamehash}{d46640c9aa6c9a41708e1b3e94d582e0}
+      \strng{authorfullhash}{32853ed27f06e700eddaed75d3ac38ce}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{Astrophysical jets reveal strong signs of radial structure. They suggest that the inner region of the jet, the jet spine, consists of a low-density, fast-moving gas, while the outer region of the jet consists of a more dense and slower moving gas, called the jet sheath. Moreover, if jets carry angular momentum, the resultant centrifugal forces lead to a radial stratification. Current observations are not able to fully resolve the radial structure, so little is known about its actual profile. We present three active galactic nuclei jet models in 2.5D of which two have been given a radial structure. The first model is a homogeneous jet, the only model that does not carry angular momentum; the second model is a spine–sheath jet with an isothermal equation of state; and the third jet model is a (piecewise) isochoric spine–sheath jet, with constant but different densities for jet spine and jet sheath. In this paper, we look at the effects of radial stratification on jet integrity, mixing between the different jet components and global morphology of the jet-head and surrounding cocoon. We consider steady jets that have been active for 23 Myr. All jets have developed the same number of strong internal shocks along their jet axis at the final time of simulation. These shocks arise when vortices are being shed by the jet-head. We find that all three jets maintain their stability all the way up to the jet-head. The isothermal jet maintains part of its structural integrity at the jet-head where the distinction between jet spine and jet sheath material can still be made. In this case, mixing between jet spine and jet sheath within the jet is fairly inefficient. The isochoric jet, on the other hand, loses its structural jet integrity fairly quickly after the jet is injected. At its jet-head, little structure is maintained and the central part of the jet predominantly consists of jet sheath material. In this case, jet spine and jet sheath material mix efficiently within the jet. We find that the propagation speed for all three models is less than expected from simple theoretical predictions. We propose this is due to an enlarged cross-section of the jet which impacts with the ambient medium. We show that in these models, the effective surface area is 16 times as large in the case of the homogeneous jet, 30 times as large in the case of the isochoric jet and can be up to 40 times as large in the case of the isothermal jet.}}
+      \field{issn}{0035-8711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{{Relativistic AGN jets I. The delicate interplay between jet structure, cocoon morphology and jet-head propagation}}
+      \field{volume}{433}
+      \field{year}{2013}
+      \field{pages}{1453\bibrangedash 1478}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1093/mnras/stt823
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/mnras/article-pdf/433/2/1453/4923906/stt823.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/mnras/stt823
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/mnras/stt823
       \endverb
     \endentry
     \entry{2013Wilson}{book}{}

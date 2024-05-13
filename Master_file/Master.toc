@@ -1,33 +1,46 @@
-\contentsline {section}{\numberline {1}Introduction}{6}{section.1}%
-\contentsline {section}{\numberline {2}The ever-expanding Universe}{7}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Cosmological parameters}{7}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Shape of the Universe}{7}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Redshift}{8}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Comoving distance}{8}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Luminosity distance}{9}{subsection.2.5}%
-\contentsline {section}{\numberline {3}High Energy Particles}{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Acceleration of high energy particles}{10}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}The Hillas criterion}{11}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Macroscopic Acceleration mechanisms}{12}{subsubsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.2}UHECRs}{14}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Production and Energy loss}{14}{subsubsection.3.2.1}%
-\contentsline {section}{\numberline {4}Probing extra galactic sources}{15}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Density and anisotropy}{15}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}SED broad band analysis}{16}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}X-ray energy budget}{17}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Radio luminosity}{17}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}Photon fields around AGN}{17}{subsubsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.3}Magnetic field constraints}{19}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Equipartition}{19}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Self synchrotron absorption}{21}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}Deviation from SSA and Equipartition}{23}{subsubsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.4}Time-scales analysis}{23}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Active Galactic Nuclei}{26}{section.5}%
-\contentsline {section}{\numberline {6}Compact symmetric objects}{27}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Structure of CSOs}{27}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Classification of CSO}{28}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Catalouge of Bona fide CSO}{30}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Prevalence of CSOs}{30}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Stability in jet expansion and lobes.}{30}{subsection.6.5}%
-\contentsline {section}{\numberline {7}CSO as sources of UHECRs and neutrinos}{31}{section.7}%
-\contentsline {section}{\numberline {8}Discussion}{32}{section.8}%
+\contentsline {section}{\numberline {1}Introduction}{7}{section.1}%
+\contentsline {section}{\numberline {2}The ever-expanding Universe}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Cosmological parameters}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Shape of the Universe}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Redshift}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Comoving distance}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Luminosity distance}{10}{subsection.2.5}%
+\contentsline {section}{\numberline {3}High Energy Particles}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Acceleration of high energy particles}{11}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}The Hillas criterion}{12}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Macroscopic Acceleration mechanisms}{13}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}UHECRs}{15}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Production and Energy loss}{15}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Detection}{15}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Emissivity estimates}{16}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Neutrinos}{17}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Production and Energy loss}{17}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Detection}{18}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Emissivity estimates}{20}{subsubsection.3.3.3}%
+\contentsline {section}{\numberline {4}Probing extra galactic sources}{22}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Density and anisotropy}{22}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}SED broad band analysis}{23}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}X-ray energy budget}{24}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Radio luminosity}{24}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Photon fields around AGN}{24}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Magnetic field constraints}{26}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Equipartition}{26}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Self synchrotron absorption}{28}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Deviation from SSA and Equipartition}{30}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.4}Time-scales analysis}{30}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Active Galactic Nuclei}{33}{section.5}%
+\contentsline {subsection}{\numberline {5.1}AGN structure and classification}{34}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Accretion disk}{34}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Corona and X-ray emission}{36}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Broad and narrow line region}{36}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Dust torus}{36}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}Jets}{36}{subsubsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.2}Types of AGN}{37}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Compact symmetric objects}{38}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Sub Classification of CSO}{41}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Origin of CSOs/Fueling}{42}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Catalouge of Bona fide CSO}{43}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Characteristic of CSOs vs linear size}{45}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Prevalence of CSOs}{45}{subsection.6.5}%
+\contentsline {section}{\numberline {7}CSO as sources of UHECRs and neutrinos}{46}{section.7}%
+\contentsline {section}{\numberline {8}Discussion}{47}{section.8}%
