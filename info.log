@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.13)  22 MAR 2024 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.13)  21 MAY 2024 12:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -965,8 +965,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 \@quotelevel=\count478
 \@quotereset=\count479
-
-No file info.aux.
+ (info.aux)
 \openout1 = `info.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
@@ -989,7 +988,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-(C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+ (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1096,7 +1095,7 @@ File: Plots/L_n_uhecr_calc_cso.png Graphic file (type png)
 <use Plots/L_n_uhecr_calc_cso.png>
 Package pdftex.def Info: Plots/L_n_uhecr_calc_cso.png  used on input line 166.
 (pdftex.def)             Requested size: 328.82733pt x 328.82901pt.
- [2] [3 <./Plots/Hillas_criterion_CSO.png>] [4 <./Plots/L_n_neut_calc_cso.png>] [5 <./Plots/L_n_uhecr_calc_cso.png>]
+ [2{C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3 <./Plots/Hillas_criterion_CSO.png>] [4 <./Plots/L_n_neut_calc_cso.png>] [5 <./Plots/L_n_uhecr_calc_cso.png>]
 <Plots/Kinetic_energy_UFO_CSO.png, id=118, 722.7pt x 433.62pt>
 File: Plots/Kinetic_energy_UFO_CSO.png Graphic file (type png)
 <use Plots/Kinetic_energy_UFO_CSO.png>
@@ -1163,17 +1162,17 @@ Package logreq Info: Writing requests to 'info.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37731 strings out of 474592
- 764751 string characters out of 5745798
+ 37735 strings out of 474592
+ 764869 string characters out of 5745798
  1936533 words of memory out of 5000000
- 59324 multiletter control sequences out of 15000+600000
+ 59325 multiletter control sequences out of 15000+600000
  566733 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,12n,99p,1196b,1311s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on info.pdf (9 pages, 469838 bytes).
+<C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on info.pdf (9 pages, 478320 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 230 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
  182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

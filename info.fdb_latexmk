@@ -1,15 +1,15 @@
 # Fdb version 4
-["biber info"] 0 "info.bcf" "info.bbl" "info" 1711114381 -1
+["biber info"] 0 "info.bcf" "info.bbl" "info" 1716288718 -1
   "./bibfile.bib" 1708430779 4341 155f926bb5e7871d0fb293e781dd8ce5 ""
-  "info.bcf" 1711114380 108958 f23066556086bd7e55316e33aa2c00f8 "pdflatex"
+  "info.bcf" 1716288717 108958 f23066556086bd7e55316e33aa2c00f8 "pdflatex"
   (generated)
   "info.bbl"
   "info.blg"
   (rewritten before read)
-["pdflatex"] 1711114371 "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/info.tex" "info.pdf" "info" 1711114381 2
-  "C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1710685760 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "C:/Users/henri/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1699966202 12668 12f054fd6f0f61cb5798a92dd2373ddc ""
+["pdflatex"] 1716288712 "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/info.tex" "info.pdf" "info" 1716288718 2
+  "C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715262479 278015 b5ae8789d05c9394f564dcef5be6e51a ""
   "C:/Users/henri/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1699867245 24212835 1bf5a7d890c7b4c1680c4113af1d4119 ""
+  "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1001775420 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993062508 1460 8005ce585ff351dff78998923504da5e ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -46,6 +46,7 @@
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
+  "C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb" 1215618300 145929 5c9aebea9ba6e33fc93158c04a3bdcd8 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -234,14 +235,14 @@
   "C:/Users/henri/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Logo-Ntnu.svg.png" 1699867053 33858 c329779cdda9190fa893270937323f84 ""
   "Plots/Hillas_criterion_CSO.png" 1708003702 73052 0f0afca163943a83a7f110c5f09e9d9b ""
-  "Plots/Kinetic_energy_UFO_CSO.png" 1711114369 115761 a4ee7536cdc21a660aa6a09a8e689b82 ""
-  "Plots/L_n_neut_calc_cso.png" 1711114366 73184 9fc2b26f09a8b049eefd64260fbd705a ""
-  "Plots/L_n_uhecr_calc_cso.png" 1711114365 72689 1a1ebc889aeeaea312872c621ed6d72e ""
+  "Plots/Kinetic_energy_UFO_CSO.png" 1716288711 115761 a4ee7536cdc21a660aa6a09a8e689b82 ""
+  "Plots/L_n_neut_calc_cso.png" 1716288709 73184 9fc2b26f09a8b049eefd64260fbd705a ""
+  "Plots/L_n_uhecr_calc_cso.png" 1716288708 72689 1a1ebc889aeeaea312872c621ed6d72e ""
   "c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/info.tex" 1709550861 8634 b098e29098a4c031709fb7b0654de32b ""
-  "info.aux" 1711114380 3556 5ab22e7b15c505b8e4f6b485b131ae85 "pdflatex"
+  "info.aux" 1716288717 3556 5ab22e7b15c505b8e4f6b485b131ae85 "pdflatex"
   "info.bbl" 1709550872 32253 b6bdd3d3ddcde9d00bed578ef7c35cc6 "biber info"
-  "info.out" 1711114380 433 3aa5e566387345cf3a5b50edca4ed298 "pdflatex"
-  "info.run.xml" 1711114380 2308 15f989466d76801e20fd5f81f358a0d8 "pdflatex"
+  "info.out" 1716288717 433 3aa5e566387345cf3a5b50edca4ed298 "pdflatex"
+  "info.run.xml" 1716288717 2308 15f989466d76801e20fd5f81f358a0d8 "pdflatex"
   "info.tex" 1709550861 8634 b098e29098a4c031709fb7b0654de32b ""
   (generated)
   "info.aux"

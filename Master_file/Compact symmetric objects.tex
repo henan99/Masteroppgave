@@ -55,50 +55,11 @@ The last two criteria are the newest addition made by \cite{kiehlmann2023compact
 
 %The choice of variables comes from three sources. \cite{bronzini2024investigating} and \cite{kiehlmann2023compact} which both gives the disk luminosity of CSOs sources, and which we set to $10^{43} erg/s$. \cite{Ghisellini_2009} gives the rest of parameters that relate the different regions to the disk luminosity. The biggest caveat here is that these parameters are not specific to CSOs, but to Blazars in which they are based. For the purposes of this analysis one assumes that the parameters are the same for CSOs as for Blazars, and that one would not expect any significant difference. 
 
-\begin{table}
-    \centering
-    \begin{tabular}{|c|c|}
-        \hline
-        Parameter & Value \\
-        \hline
-        $L_{d}$ & $10^{43}$ erg/s \\
-        $GM$ & $G 10^{8} M_{\odot}$ \\
-        $RS$ & $\frac{2GM}{c^2}$ \\
-        $\eta$ & 0.1 \\
-        $f_{X}$ & 0.3 \\
-        $R_{X}$ & 30$ RS $\\
-        $\beta$ & 0.4 $c$\\
-        $f_{\text{BLR}}$ & 0.1 \\
-        $R_{\text{BLR}}$ & $10^{17} \sqrt{L_{d}/10^{45}}$ cm \\
-        $f_{\text{IR}}$ & 0.5 \\
-        $R_{\text{IR}}$ & $2.5 10^{18}\sqrt{L_{d}/10^{45}}$ cm \\
-        $\Gamma$ & 1.1 \\
-        \hline
-    \end{tabular}
-    \caption{Parameters used to determine the SED of the different regions.}
-    \label{tab:SED_params}
-\end{table}
-\begin{figure}
-    \centering
-    \includegraphics[width=.5\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Energy_densities.png}
-    \caption{The total energy density of the photon fields as a function radius from central engine.}
-    \label{fig:photon_fields}
-\end{figure}
 
 
-\begin{figure}
-    \centering
-    \includegraphics[width=.5\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png}
-    \caption{The spectral energy density at distance R}
-    \label{fig:SED_sep}
-\end{figure}
 
-\begin{figure}
-    \centering
-    \includegraphics[width=.5\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png}
-    \caption{Luminosity of the different components of the CSO that are close by the central engine. Missing synchrotron and IC part which is most prominent }
-    \label{fig:Lum_SED}
-\end{figure}
+
+
 
 \subsection{Sub Classification of CSO}
 Moving further along the classification of CSOs one now realises that there are two types of CSOs. CSO 2 and CSO 1. In CSO 2 sources one consider it edge brightened where there is significant luminosity in the radio lobes compared to the core. In CSO 1 sources one consider it edge dimmed where the luminosity of the radio lobes are significantly lower than that of the core. The origin of the two types of CSOs are thought to be the same, where CSO 1s represent failed CSO 2s. One will get back to the origin later in the report.
@@ -150,6 +111,9 @@ Small sizes and finite lifetime are good indicators for transient events, and th
 
 \subsection{Catalouge of Bona fide CSO}
 With the new criterias for CSOs \cite{kiehlmann2023compact} begun compiling a bone fide list of Compact symmetric objects. This new catalogue will serve as the testing grounds for their ability to produce UHECRs and neutrinos. The catalogue is a list of 79 sources which are somewhat split between the four different subclasses as seen in table \ref{tab:CSO_class} where only the CSO with a spectroscopic redshift have been given a class. The full source catalogue is listed in table \ref{tab:CSO_sources}.
+
+The vetting process done in \cite{kiehlmann2023compact} is thorough and the extended list of what they call A class candidate include an Additional $167$ sources which have a high likelyhood of being CSOs. In additon to this they have a list of $1164$ B class candidates which are sources that have a lower likelyhood of being CSOs, and therefore require a large follow up study to confirm. The vetting process rejected $1765$ sources which were claimed to be CSOs or CSO candidates in other sources and catalogue created since the 1990s.  This then creates a great starting block for further investigation, and with the introduction of more sources more extensive catalogues and luminosity functions can be created. 
+
 %In order to study these sources there will always be a need for observational data. This fact combined with the fact that CSOs are a somewhat new class of AGN mean that there are no large catalogues of pure CSOs, and that many other catalogues misnomer sources as CSOs. This chapter will rely heavilly on \cite{kiehlmann2023compact} in which this is discussed and where they define a bona fide catalogue of 79 CSOs. The catalogue will allow us as it has in this paper to say more concrete information about the sources we are studying.
 \begin{table}[H]
     \centering
@@ -261,18 +225,31 @@ With the new criterias for CSOs \cite{kiehlmann2023compact} begun compiling a bo
     \begin{tabular}{@{}ccc@{}}
         \toprule
         Class & Number of sources & Percentage of total  \\ \midrule
-        CSO 1 & 11 & 20.4  \\
-        CSO 2.0 & 17 & 31.5  \\
-        CSO 2.1 & 15 & 27.8  \\
-        CSO 2.2 & 11 & 20.4  \\
+        CSO 1 & 11 & 14.0  \\
+        CSO 2.0 & 17 & 21.5  \\
+        CSO 2.1 & 15 & 19.0  \\
+        CSO 2.2 & 11 & 14.0  \\
+        No class & 25 & 31.6  \\
         \bottomrule
     \end{tabular}
 \end{table}
 \newpage
 
-\subsection{Characteristic of CSOs vs linear size}
-Radio luminosity is a key feature of CSOs, is a good indicator of magnetic field strength, and allows us 
-to probe the radio lobes of CSOs. In figure \ref{fig:Luminosity_size} one can see the radio luminosity at peak frequency of CSOs as a function of linear size. 
+As seen in \cite{ALBERS2024} one ...
+\subsection{Characteristic of CSOs}
+Given the new criteria and the new catalogue one can start to peel away the characteristics of CSO. The first thing one can study is the redshift distribution. In figure \ref{fig:redshift_hist} one sees the spread of our bona fide CSOs across redshift. The immediate observation is that the majority of CSO 1 sources are in close vicinity. Additionally, the majority of CSO 2.1 and 2.2 are also in closer vicinity compared to CSO 2.0. This distribution is expected since one assumes one is observing the higher end of the luminosity function of CSOs, and therefore the most luminous sources will be the ones that are observed at higher redshifts. 
+
+One can compliment this observation in figure \ref{fig:Luminosity_redshift} where  one sees the radio luminosity at peak frequency of CSOs as a function of redshift. Here there is a clear trend toward lower luminosity as we move to lower redshifts. This helps to confirm the observation bias of the redshift distribution. One has also put a line at $z=0.017$ which is the redshift cutoff of $50 Mpc$, the distance which is a limit for the GZK horizon. 
+
+
+Moving to different features of CSO it is very common to study the linear size relations of CSOs. Linear size maintain close relations with the emmission of the source, and will relate to the age of the sources, and the jet power.In figure \ref{fig:Luminosity_size} one can see the radio luminosity at peak frequency of CSOs as a function of linear size. 
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.8\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png}
+    \caption{Distribution of redshift of different classes}
+    \label{fig:redshift_hist}
+\end{figure}
 
 \begin{figure}
     \centering
@@ -281,10 +258,8 @@ to probe the radio lobes of CSOs. In figure \ref{fig:Luminosity_size} one can se
     \label{fig:Luminosity_size}
 \end{figure}
 
-The figure shows a distinction between CSO $2.0$ and the other classes where CSO $2.0$ have a higher luminosity at peak frequency compared to the other classes of similar sizes. In addition one sees a trend of higher luminosity at the peak frequency for larger sources. This is expected since the amount of energy deposited into the lobes will 
- affect the size of the lobes.
+The figure shows a clear relation between linear size and emissivity in radio. This relation is expected since the amount of energy deposited into the lobes will affect the size of the lobes. CSO 1 occupy their own region in the plot giving foundation to the distinction between CSO 1 and CSO 2. The figure does not show a clear distinction between CSO 2.0, 2.1, and 2.2, but one can see that the most luminous sources are CSO 2.0 for a given linear size. 
 
-One can also investigate the relation between redshift and luminosity at peak frequency as seen in figure \ref{fig:Luminosity_redshift}. Here one sees a trend of higher luminosity at peak frequency for higher redshifts, indicating a possible obersvation bias for longer distances.
 
 
 
@@ -294,8 +269,15 @@ One can also investigate the relation between redshift and luminosity at peak fr
     \caption{The radio luminosity at peak frequency of CSOs as a function of redshift.}
     \label{fig:Luminosity_redshift}
 \end{figure}
+
+
 \subsection{Prevalence of CSOs}
 
+The number density of these object is of utmost importance in the search for UHECRs emitters. The author has not found a dedicated luminosity function of these sources, and due to the new criteria propsed in 2024 one would imagine previous luminosity function might be contaminated, as the previous CSO catalogues have. On the other hand on can use the lifetime of our objects and make lower limit predictions of the number density of these sources.
+
+From section 4 one defined a method using the lifetime of our objects. The lifetime of CSOs is of the order of $5 \times 10^3$ years. One can see also that the redshift at which one find an apreciable amount of sources which is also backed in \cite{kiehlmann2023compact2} is at redshift $z=0.9$. The required number density of these sources to view one source at present time is therefore $1.2 \times 10^{4} \text{Gpc}^{-3} = 1.2 \times 10^{-5} \text{Mpc}^{-3}$. This is a lower limit since one does view more than one CSO at present time. In addition the surveys used in creating the catalogue go down to $0.7 Jy$ at $5 GHz$ and $1.5 Jy$ at $2.7 GHz$ meaning that one is only viewing the most luminous sources. If less luminous sources are also able to produce UHECRs one could expect a plethora of sources. 
+
+The number density of the order of $10^{-5} \text{Mpc}^{-3}$ does not meet the required density of $10^{-4} \text{Mpc}^{-3}$ for UHECRs, but since this is a lower limit for the high luminosity sources, one then requires a bigger part of the luminosity function to be able to produce UHECRs as well.   
 
 
 

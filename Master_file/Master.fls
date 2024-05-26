@@ -395,27 +395,6 @@ INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\J07
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\J0741+2706.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\J0741+2706.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\J0741+2706.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Energy_densities.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
-INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SED.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO_morphology.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO_morphology.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO_morphology.png
@@ -423,6 +402,13 @@ INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO_morphology.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO_morphology.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\CSO_morphology.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hist_z.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Lin_size_vs_Luminosity.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Lin_size_vs_Luminosity.png
 INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Lin_size_vs_Luminosity.png
@@ -440,6 +426,71 @@ INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\z_v
 INPUT .\CSO.tex
 INPUT .\CSO.tex
 INPUT CSO.tex
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Equipartion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SSA.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hillas.png
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\L_n_neut_calc_cso.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\jet_power.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\SEDs_sep.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\Time_scales.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
+INPUT C:\Users\henri\OneDrive\Documents\NTNU\Semester 10\Masteroppgave\Plots\hot_spot_expansion.png
 INPUT .\Discussion.tex
 INPUT .\Discussion.tex
 INPUT Discussion.tex
@@ -455,6 +506,8 @@ INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx7.pfb
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx7.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb

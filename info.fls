@@ -337,6 +337,9 @@ OUTPUT info.pdf
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbposter.code.tex
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT .\info.aux
+INPUT .\info.aux
+INPUT info.aux
 OUTPUT info.aux
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
@@ -417,6 +420,7 @@ INPUT .\Plots\L_n_uhecr_calc_cso.png
 INPUT .\Plots\L_n_uhecr_calc_cso.png
 INPUT .\Plots\L_n_uhecr_calc_cso.png
 INPUT .\Plots\L_n_uhecr_calc_cso.png
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cm-super\cm-super-ts1.enc
 INPUT .\Plots\Kinetic_energy_UFO_CSO.png
 INPUT .\Plots\Kinetic_energy_UFO_CSO.png
 INPUT .\Plots\Kinetic_energy_UFO_CSO.png
@@ -432,8 +436,6 @@ INPUT .\info.out
 INPUT .\info.out
 INPUT info.run.xml
 OUTPUT info.run.xml
-INPUT C:\Users\henri\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\henri\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -460,3 +462,5 @@ INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
 INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\cm-super\sfrm1095.pfb
+INPUT C:\Users\henri\AppData\Local\Programs\MiKTeX\fonts\type1\public\cm-super\sfrm1095.pfb

@@ -173,6 +173,7 @@ For illustrative purposes one can see the total spectral energy density in figur
 \subsection{Magnetic field constraints}
 
 \subsubsection{Equipartition}
+\label{sec:equipartition}
 The most well know estimate for magnetic field strength in astrophysical sources is throught the equipartition argument. The fact that one observes synchrotron radiation implies that a source of relativistic electrons which have an energy density $U_e$ and that these electrons are in a magnetic field with an energy density $U_B$. The question that one aims to answer with the equipartition argument is what is the minimum total energy in both relativistic particles and magnetic fields required to produce the observed synchrotron radiation of a given frequency. The toal energy in relativistic particles and magnetic fields of a volume $V$ is given as 
 
 \begin{equation}
@@ -238,7 +239,7 @@ Given that one has measurments on distance, volume, flux density one can then es
 This relationship between $U_B$ and $U_e$  at this minimum is very near the equipartition value, which is why this method is often called as such.
 
 \subsubsection{Self synchrotron absorption}
-
+\label{sec:SSA}
 
 The theory of synchrotron self absorption is a tool used previously for estimating magnetic field strength in spherically symmetric synchrotron sources. Synchrotron radiation is the product of charged particles traveling in a magnetic field. The radiation is emitted when the particles are accelerated which happens when an electron is spiraling in an uniform magnetic field. The light is usually highly polarized and is dependent on the electron energy and the magnetic field strength. Moving further along, synchrotron self absorption is the process where the synchrotron radiation is absorbed by the same electrons that produced it, and the effect of this is that any given volume of emitting plasma that radiate synchrotron radiation will have a frequency below which the radiation is absorbed. This frequency is called the turnover frequency, and one aims to show how one can estimate the magnetic field strength in the emitting plasma based on this information. The concept was first introduced by \cite{1983ApJ...264..296M}, but this section relies heaviliy on \cite{Hirotani_2005} for the derivation. 
 
@@ -321,12 +322,15 @@ If one calculates the magnetic field using both SSA and Equipartition one expect
 
 In order to probe what type of sources could be responsible for the observed UHECRs and neutrinos one can use the relevant time-scales a measure. The timescales of a source will act as an indicator of the dominant processes in the source, and give us an upper boundary for what we could expect of escaping particles. The dominante timescales of a source will be source specific, so further on we will be looking at the timescales of a typical compact AGN. The relevent timescales then are the acceleration timescale, the synchrotron cooling timescale, the dynamical timescale, and the photo-pion cooling timescale. 
 
+\textbf{Acceleration timescale:}
 One starts by determining the acceleration timescale of a proton undergoing first order fermi acceleration, the acceleraiton mechanisms explained in section ... . The acceleration timescale is given by the equation
 \begin{equation}
     t_{acc} =  \frac{\eta \epsilon}{Z e B c}
 \end{equation}
 Where $\eta$ is the efficiency of the acceleration process with the most efficient acceleration harbouring the value $\eta \approx (1-10)$, $\epsilon$ is the energy of the particle, $Z$ is the charge of the particle, $e$ is the elementary charge, $B$ is the magnetic field strength and $c$ is the speed of light. 
 Usually the value of $\eta$ is taken to be 1, which is the most efficient acceleration process.
+
+\textbf{Size estimation/ dynamical timescale:}
 
 The dynamical timescale is a limit on the sources size and can be estimated several ways. The sources size is important since in order to accelerate particles the source must also be able to contain particles. If one does not have good measurments on the source size, but have good fluence measurments of an attributing light curve one can estimate the size of the source via the variablility. From the variablility timescale $t_{var}$ one can estimate the size of the source as
 
@@ -341,6 +345,15 @@ Another way of estimating the sources size is through telescope measurments. For
 \end{equation}
 
 Where $D_A(z)$ is the angular diameter distance to the source at its redshift $z$.
+
+A third method of estimating the radius of our lobes is outlined in \cite{W_jtowicz_2020}. They use a relation between the total linear size of an object and the estimated relations between the semi-major axis and the semi-minor axis. The argument is that some AGN which are imprtant for this report have relatively large aspect ratios between their axes, with an estimation equaling $b/a \approx 0.25$. From this, they introduce the effective radius of the radio lobes via
+
+\begin{equation}
+    R_{\text{lobe}} = \sqrt[3]{ab^2\frac{3}{4}} \approx 0.18 \times LS = 0.18 \times 2 \times a 
+\end{equation}
+
+
+\textbf{Cooling timescales:}
 
 In the source of AGN there will be an enviroment of magnetic fields and photon fields that will interact with the particles. An important timescale to consider given this enviroment is often the synchrotron cooling timescale. This is the timescale for a particle to lose energy due to synchrotron radiation. One will have both synchrotron losses for proton and for electrons, but since one is concerned about UHECRs one will focus on protons. The synchrotron cooling timescale for protons is given by the equation
 

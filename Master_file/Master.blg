@@ -1,18 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Master.blg'
-[115] biber-MSWIN64:340> INFO - === 
-[170] Biber.pm:419> INFO - Reading 'Master.bcf'
-[321] Biber.pm:979> INFO - Found 35 citekeys in bib section 0
-[337] Biber.pm:4419> INFO - Processing section 0
-[348] Biber.pm:4610> INFO - Looking for bibtex file 'bibfile.bib' for section 0
-[413] bibtex.pm:1713> INFO - LaTeX decoding ...
-[499] bibtex.pm:1519> INFO - Found BibTeX data source 'bibfile.bib'
-[775] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[775] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[786] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[786] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[829] bbl.pm:660> INFO - Writing 'Master.bbl' with encoding 'UTF-8'
-[876] bbl.pm:763> INFO - Output to Master.bbl
-[876] Biber.pm:131> WARN - legacy month field 'may' in entry 'ThePierreAugercollaboration_2013' is not an integer - this will probably not sort properly.
-[876] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\henri\AppData\Local\Temp\biber_tmp_dKsR\16a8c50cadcc2db73e6fd5c8ac073cba_87920.utf8, line 221, warning: 1 characters of junk seen at toplevel
-[876] Biber.pm:133> INFO - WARNINGS: 2
+[119] biber-MSWIN64:340> INFO - === 
+[159] Biber.pm:419> INFO - Reading 'Master.bcf'
+[275] Biber.pm:979> INFO - Found 45 citekeys in bib section 0
+[290] Biber.pm:4419> INFO - Processing section 0
+[303] Biber.pm:4610> INFO - Looking for bibtex file 'bibfile.bib' for section 0
+[376] bibtex.pm:1713> INFO - LaTeX decoding ...
+[467] bibtex.pm:1519> INFO - Found BibTeX data source 'bibfile.bib'
+[842] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[842] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[842] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[842] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[902] bbl.pm:660> INFO - Writing 'Master.bbl' with encoding 'UTF-8'
+[953] bbl.pm:763> INFO - Output to Master.bbl
+[954] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\henri\AppData\Local\Temp\biber_tmp_UvFD\16a8c50cadcc2db73e6fd5c8ac073cba_5684.utf8, line 221, warning: 1 characters of junk seen at toplevel
+[954] Biber.pm:133> INFO - WARNINGS: 1
