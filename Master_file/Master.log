@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.13)  25 MAY 2024 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.13)  4 JUN 2024 19:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,19 +7,20 @@ entering extended mode
 (c:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Master_file/Master.tex
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
-(C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -43,7 +44,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count194
+\etb@tempcnta=\count195
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
@@ -53,7 +54,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count195
+\lrq@indent=\count196
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -62,49 +63,49 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count196
-\c@listtotal=\count197
-\c@listcount=\count198
-\c@liststart=\count199
-\c@liststop=\count266
-\c@citecount=\count267
-\c@citetotal=\count268
-\c@multicitecount=\count269
-\c@multicitetotal=\count270
-\c@instcount=\count271
-\c@maxnames=\count272
-\c@minnames=\count273
-\c@maxitems=\count274
-\c@minitems=\count275
-\c@citecounter=\count276
-\c@maxcitecounter=\count277
-\c@savedcitecounter=\count278
-\c@uniquelist=\count279
-\c@uniquename=\count280
-\c@refsection=\count281
-\c@refsegment=\count282
-\c@maxextratitle=\count283
-\c@maxextratitleyear=\count284
-\c@maxextraname=\count285
-\c@maxextradate=\count286
-\c@maxextraalpha=\count287
-\c@abbrvpenalty=\count288
-\c@highnamepenalty=\count289
-\c@lownamepenalty=\count290
-\c@maxparens=\count291
-\c@parenlevel=\count292
-\blx@tempcnta=\count293
-\blx@tempcntb=\count294
-\blx@tempcntc=\count295
-\c@blx@maxsection=\count296
-\blx@maxsegment@0=\count297
-\blx@notetype=\count298
-\blx@parenlevel@text=\count299
-\blx@parenlevel@foot=\count300
-\blx@sectionciteorder@0=\count301
-\blx@sectionciteorderinternal@0=\count302
-\blx@entrysetcounter=\count303
-\blx@biblioinstance=\count304
+\c@tabx@nest=\count197
+\c@listtotal=\count198
+\c@listcount=\count199
+\c@liststart=\count266
+\c@liststop=\count267
+\c@citecount=\count268
+\c@citetotal=\count269
+\c@multicitecount=\count270
+\c@multicitetotal=\count271
+\c@instcount=\count272
+\c@maxnames=\count273
+\c@minnames=\count274
+\c@maxitems=\count275
+\c@minitems=\count276
+\c@citecounter=\count277
+\c@maxcitecounter=\count278
+\c@savedcitecounter=\count279
+\c@uniquelist=\count280
+\c@uniquename=\count281
+\c@refsection=\count282
+\c@refsegment=\count283
+\c@maxextratitle=\count284
+\c@maxextratitleyear=\count285
+\c@maxextraname=\count286
+\c@maxextradate=\count287
+\c@maxextraalpha=\count288
+\c@abbrvpenalty=\count289
+\c@highnamepenalty=\count290
+\c@lownamepenalty=\count291
+\c@maxparens=\count292
+\c@parenlevel=\count293
+\blx@tempcnta=\count294
+\blx@tempcntb=\count295
+\blx@tempcntc=\count296
+\c@blx@maxsection=\count297
+\blx@maxsegment@0=\count298
+\blx@notetype=\count299
+\blx@parenlevel@text=\count300
+\blx@parenlevel@foot=\count301
+\blx@sectionciteorder@0=\count302
+\blx@sectionciteorderinternal@0=\count303
+\blx@entrysetcounter=\count304
+\blx@biblioinstance=\count305
 \labelnumberwidth=\skip50
 \labelalphawidth=\skip51
 \biblabelsep=\skip52
@@ -116,9 +117,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count305
-\c@maxcomprange=\count306
-\c@mincompwidth=\count307
+\c@mincomprange=\count306
+\c@maxcomprange=\count307
+\c@mincompwidth=\count308
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -128,74 +129,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count308
-\c@savedafterword=\count309
-\c@annotator=\count310
-\c@savedannotator=\count311
-\c@author=\count312
-\c@savedauthor=\count313
-\c@bookauthor=\count314
-\c@savedbookauthor=\count315
-\c@commentator=\count316
-\c@savedcommentator=\count317
-\c@editor=\count318
-\c@savededitor=\count319
-\c@editora=\count320
-\c@savededitora=\count321
-\c@editorb=\count322
-\c@savededitorb=\count323
-\c@editorc=\count324
-\c@savededitorc=\count325
-\c@foreword=\count326
-\c@savedforeword=\count327
-\c@holder=\count328
-\c@savedholder=\count329
-\c@introduction=\count330
-\c@savedintroduction=\count331
-\c@namea=\count332
-\c@savednamea=\count333
-\c@nameb=\count334
-\c@savednameb=\count335
-\c@namec=\count336
-\c@savednamec=\count337
-\c@translator=\count338
-\c@savedtranslator=\count339
-\c@shortauthor=\count340
-\c@savedshortauthor=\count341
-\c@shorteditor=\count342
-\c@savedshorteditor=\count343
-\c@labelname=\count344
-\c@savedlabelname=\count345
-\c@institution=\count346
-\c@savedinstitution=\count347
-\c@lista=\count348
-\c@savedlista=\count349
-\c@listb=\count350
-\c@savedlistb=\count351
-\c@listc=\count352
-\c@savedlistc=\count353
-\c@listd=\count354
-\c@savedlistd=\count355
-\c@liste=\count356
-\c@savedliste=\count357
-\c@listf=\count358
-\c@savedlistf=\count359
-\c@location=\count360
-\c@savedlocation=\count361
-\c@organization=\count362
-\c@savedorganization=\count363
-\c@origlocation=\count364
-\c@savedoriglocation=\count365
-\c@origpublisher=\count366
-\c@savedorigpublisher=\count367
-\c@publisher=\count368
-\c@savedpublisher=\count369
-\c@language=\count370
-\c@savedlanguage=\count371
-\c@origlanguage=\count372
-\c@savedoriglanguage=\count373
-\c@pageref=\count374
-\c@savedpageref=\count375
+\c@afterword=\count309
+\c@savedafterword=\count310
+\c@annotator=\count311
+\c@savedannotator=\count312
+\c@author=\count313
+\c@savedauthor=\count314
+\c@bookauthor=\count315
+\c@savedbookauthor=\count316
+\c@commentator=\count317
+\c@savedcommentator=\count318
+\c@editor=\count319
+\c@savededitor=\count320
+\c@editora=\count321
+\c@savededitora=\count322
+\c@editorb=\count323
+\c@savededitorb=\count324
+\c@editorc=\count325
+\c@savededitorc=\count326
+\c@foreword=\count327
+\c@savedforeword=\count328
+\c@holder=\count329
+\c@savedholder=\count330
+\c@introduction=\count331
+\c@savedintroduction=\count332
+\c@namea=\count333
+\c@savednamea=\count334
+\c@nameb=\count335
+\c@savednameb=\count336
+\c@namec=\count337
+\c@savednamec=\count338
+\c@translator=\count339
+\c@savedtranslator=\count340
+\c@shortauthor=\count341
+\c@savedshortauthor=\count342
+\c@shorteditor=\count343
+\c@savedshorteditor=\count344
+\c@labelname=\count345
+\c@savedlabelname=\count346
+\c@institution=\count347
+\c@savedinstitution=\count348
+\c@lista=\count349
+\c@savedlista=\count350
+\c@listb=\count351
+\c@savedlistb=\count352
+\c@listc=\count353
+\c@savedlistc=\count354
+\c@listd=\count355
+\c@savedlistd=\count356
+\c@liste=\count357
+\c@savedliste=\count358
+\c@listf=\count359
+\c@savedlistf=\count360
+\c@location=\count361
+\c@savedlocation=\count362
+\c@organization=\count363
+\c@savedorganization=\count364
+\c@origlocation=\count365
+\c@savedoriglocation=\count366
+\c@origpublisher=\count367
+\c@savedorigpublisher=\count368
+\c@publisher=\count369
+\c@savedpublisher=\count370
+\c@language=\count371
+\c@savedlanguage=\count372
+\c@origlanguage=\count373
+\c@savedoriglanguage=\count374
+\c@pageref=\count375
+\c@savedpageref=\count376
 \shorthandwidth=\skip58
 \shortjournalwidth=\skip59
 \shortserieswidth=\skip60
@@ -219,19 +220,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count376
-\c@textcitetotal=\count377
-\c@textcitemaxnames=\count378
-\c@biburlbigbreakpenalty=\count379
-\c@biburlbreakpenalty=\count380
-\c@biburlnumpenalty=\count381
-\c@biburlucpenalty=\count382
-\c@biburllcpenalty=\count383
+\c@textcitecount=\count377
+\c@textcitetotal=\count378
+\c@textcitemaxnames=\count379
+\c@biburlbigbreakpenalty=\count380
+\c@biburlbreakpenalty=\count381
+\c@biburlnumpenalty=\count382
+\c@biburlucpenalty=\count383
+\c@biburllcpenalty=\count384
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count384
+\c@smartand=\count385
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -241,8 +242,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count385
-\c@bbx:relatedtotal=\count386
+\c@bbx:relatedcount=\count386
+\c@bbx:relatedtotal=\count387
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -267,7 +268,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2023-11-01 L3 programming layer (loader) 
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count387
+\l__color_backend_stack_int=\count388
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
@@ -297,11 +298,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count388
+\c@section@level=\count389
 )
 \@linkdim=\dimen141
-\Hy@linkcounter=\count389
-\Hy@pagecounter=\count390
+\Hy@linkcounter=\count390
+\Hy@pagecounter=\count391
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-10-27 v7.01d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -309,7 +310,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count391
+\Hy@SavedSpaceFactor=\count392
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-10-27 v7.01d Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -322,7 +323,7 @@ Package hyperref Info: Plain pages OFF on input line 4183.
 Package hyperref Info: Backreferencing OFF on input line 4188.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4435.
-\c@Hy@tempcnt=\count392
+\c@Hy@tempcnt=\count393
 LaTeX Info: Redefining \url on input line 4773.
 \XeTeXLinkMargin=\dimen142
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -330,7 +331,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count393
+\Fld@menulength=\count394
 \Field@Width=\dimen143
 \Fld@charsize=\dimen144
 Package hyperref Info: Hyper figures OFF on input line 6052.
@@ -344,9 +345,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6082.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count394
-\c@Item=\count395
-\c@Hfootnote=\count396
+\Hy@abspage=\count395
+\c@Item=\count396
+\c@Hfootnote=\count397
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -355,8 +356,8 @@ File: hpdftex.def 2023-10-27 v7.01d Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count397
-\c@bookmark@seq@number=\count398
+\Fld@listcount=\count398
+\c@bookmark@seq@number=\count399
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -381,22 +382,22 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen152
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count399
-\c@continuedfloat=\count400
+\c@caption@flags=\count400
+\c@continuedfloat=\count401
 Package caption Info: hyperref package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count401
+\c@subfigure=\count402
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count402
+\c@subtable=\count403
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count403
-\Gm@cntv=\count404
-\c@Gm@tempcnt=\count405
+\Gm@cnth=\count404
+\Gm@cntv=\count405
+\c@Gm@tempcnt=\count406
 \Gm@bindingoffset=\dimen153
 \Gm@wd@mp=\dimen154
 \Gm@odd@mp=\dimen155
@@ -421,9 +422,20 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen161
 \Gin@req@width=\dimen162
+) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip73
+\mylen=\skip74
+\myhi=\skip75
+\px=\skip76
+\py=\skip77
+\pyy=\skip78
+\pxx=\skip79
+\c@AlphaCnt=\count407
+\c@AlphaDecCnt=\count408
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip73
+\@mathmargin=\skip80
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -438,14 +450,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count406
+\inf@bad=\count409
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count407
-\leftroot@=\count408
+\uproot@=\count410
+\leftroot@=\count411
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count409
-\DOTSCASE@=\count410
+\classnum@=\count412
+\DOTSCASE@=\count413
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -458,20 +470,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen165
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count411
+\macc@depth=\count414
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count412
+\c@MaxMatrixCols=\count415
 \dotsspace@=\muskip21
-\c@parentequation=\count413
-\dspbrk@lvl=\count414
+\c@parentequation=\count416
+\dspbrk@lvl=\count417
 \tag@help=\toks22
-\row@=\count415
-\column@=\count416
-\maxfields@=\count417
+\row@=\count418
+\column@=\count419
+\maxfields@=\count420
 \andhelp@=\toks23
 \eqnshift@=\dimen166
 \alignsep@=\dimen167
@@ -480,8 +492,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen170
 \lineht@=\dimen171
 \@envbody=\toks24
-\multlinegap=\skip74
-\multlinetaggap=\skip75
+\multlinegap=\skip81
+\multlinetaggap=\skip82
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -499,35 +511,35 @@ Package: bbold 1994/04/06 Bbold symbol package
 Package: relsize 2013/03/29 ver 4.1
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip76
-\f@nch@O@elh=\skip77
-\f@nch@O@erh=\skip78
-\f@nch@O@olh=\skip79
-\f@nch@O@orh=\skip80
-\f@nch@O@elf=\skip81
-\f@nch@O@erf=\skip82
-\f@nch@O@olf=\skip83
-\f@nch@O@orf=\skip84
+\f@nch@headwidth=\skip83
+\f@nch@O@elh=\skip84
+\f@nch@O@erh=\skip85
+\f@nch@O@olh=\skip86
+\f@nch@O@orh=\skip87
+\f@nch@O@elf=\skip88
+\f@nch@O@erf=\skip89
+\f@nch@O@olf=\skip90
+\f@nch@O@orf=\skip91
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count418
-\calc@Bcount=\count419
+\calc@Acount=\count421
+\calc@Bcount=\count422
 \calc@Adimen=\dimen172
 \calc@Bdimen=\dimen173
-\calc@Askip=\skip85
-\calc@Bskip=\skip86
+\calc@Askip=\skip92
+\calc@Bskip=\skip93
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count420
-\calc@Cskip=\skip87
+\calc@Ccount=\count423
+\calc@Cskip=\skip94
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count421
+\g_MT_multlinerow_int=\count424
 \l_MT_multwidth_dim=\dimen174
-\origjot=\skip88
+\origjot=\skip95
 \l_MT_shortvdotswithinadjustabove_dim=\dimen175
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen176
 \l_MT_above_intertext_sep=\dimen177
@@ -544,8 +556,8 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box55
 \extrarowheight=\dimen183
 \NC@list=\toks26
-\extratabsurround=\skip89
-\backup@length=\skip90
+\extratabsurround=\skip96
+\backup@length=\skip97
 \ar@cellbox=\box56
 )
 \TX@col@width=\dimen184
@@ -553,15 +565,15 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@old@col=\dimen186
 \TX@target=\dimen187
 \TX@delta=\dimen188
-\TX@cols=\count422
+\TX@cols=\count425
 \TX@ftn=\toks27
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count423
-\l__lipsum_a_int=\count424
-\l__lipsum_b_int=\count425
+\g__lipsum_par_int=\count426
+\l__lipsum_a_int=\count427
+\l__lipsum_b_int=\count428
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -593,30 +605,30 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count426
+\pdfpages@includegraphics@status=\count429
 \AM@pagebox=\box57
 \AM@global@opts=\toks28
-\AM@pagecnt=\count427
+\AM@pagecnt=\count430
 \AM@toc@title=\toks29
 \AM@lof@heading=\toks30
-\c@AM@survey=\count428
+\c@AM@survey=\count431
 \AM@templatesizebox=\box58
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count429
+\c@tracingmulticols=\count432
 \mult@box=\box59
 \multicol@leftmargin=\dimen194
-\c@unbalance=\count430
-\c@collectmore=\count431
-\doublecol@number=\count432
-\multicoltolerance=\count433
-\multicolpretolerance=\count434
+\c@unbalance=\count433
+\c@collectmore=\count434
+\doublecol@number=\count435
+\multicoltolerance=\count436
+\multicolpretolerance=\count437
 \full@width=\dimen195
 \page@free=\dimen196
 \premulticols=\dimen197
 \postmulticols=\dimen198
-\multicolsep=\skip91
-\multicolbaselineskip=\skip92
+\multicolsep=\skip98
+\multicolbaselineskip=\skip99
 \partial@page=\box60
 \last@line=\box61
 \mc@boxedresult=\box62
@@ -661,15 +673,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box100
 \@tempa=\box101
 \@tempa=\box102
-\c@minrows=\count435
-\c@columnbadness=\count436
-\c@finalcolumnbadness=\count437
+\c@minrows=\count438
+\c@columnbadness=\count439
+\c@finalcolumnbadness=\count440
 \last@try=\dimen256
 \multicolovershoot=\dimen257
 \multicolundershoot=\dimen258
 \mult@nat@firstbox=\box103
 \colbreak@box=\box104
-\mc@col@check@num=\count438
+\mc@col@check@num=\count441
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen259
@@ -682,65 +694,76 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen266
 \cmidrulekern=\dimen267
 \defaultaddspace=\dimen268
-\@cmidla=\count439
-\@cmidlb=\count440
+\@cmidla=\count442
+\@cmidlb=\count443
 \@aboverulesep=\dimen269
 \@belowrulesep=\dimen270
-\@thisruleclass=\count441
-\@lastruleclass=\count442
+\@thisruleclass=\count444
+\@lastruleclass=\count445
 \@thisrulewidth=\dimen271
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count443
+\c@float@type=\count446
 \float@exts=\toks31
 \float@box=\box105
 \@float@everytoks=\toks32
 \@floatcapt=\box106
+) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box107
+\beforetitleunit=\skip100
+\aftertitleunit=\skip101
+\ttl@plus=\dimen272
+\ttl@minus=\dimen273
+\ttl@toksa=\toks33
+\titlewidth=\dimen274
+\titlewidthlast=\dimen275
+\titlewidthfirst=\dimen276
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count444
-\lst@gtempboxa=\box107
-\lst@token=\toks33
-\lst@length=\count445
-\lst@currlwidth=\dimen272
-\lst@column=\count446
-\lst@pos=\count447
-\lst@lostspace=\dimen273
-\lst@width=\dimen274
-\lst@newlines=\count448
-\lst@lineno=\count449
-\lst@maxwidth=\dimen275
+\lst@mode=\count447
+\lst@gtempboxa=\box108
+\lst@token=\toks34
+\lst@length=\count448
+\lst@currlwidth=\dimen277
+\lst@column=\count449
+\lst@pos=\count450
+\lst@lostspace=\dimen278
+\lst@width=\dimen279
+\lst@newlines=\count451
+\lst@lineno=\count452
+\lst@maxwidth=\dimen280
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count450
-\lst@skipnumbers=\count451
-\lst@framebox=\box108
+\c@lstnumber=\count453
+\lst@skipnumbers=\count454
+\lst@framebox=\box109
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-\@quotelevel=\count452
-\@quotereset=\count453
+\@quotelevel=\count455
+\@quotereset=\count456
  (Master.aux)
 \openout1 = `Master.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
@@ -754,9 +777,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Master.bbl' found.
  (Master.bbl)
-Package biblatex Info: Reference section=0 on input line 49.
-Package biblatex Info: Reference segment=0 on input line 49.
-Package hyperref Info: Link coloring OFF on input line 49.
+Package biblatex Info: Reference section=0 on input line 52.
+Package biblatex Info: Reference segment=0 on input line 52.
+Package hyperref Info: Link coloring OFF on input line 52.
  (Master.out) (Master.out)
 \@outlinefile=\write4
 \openout4 = `Master.out'.
@@ -770,49 +793,49 @@ Package caption Info: End \AtBeginDocument code.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
-* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=469.75539pt
-* \textheight=650.43037pt
-* \oddsidemargin=-0.00018pt
-* \evensidemargin=-0.00018pt
-* \topmargin=-37.00018pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
+* modes: twoside 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=700.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=0.0pt
+* \topmargin=-34.47379pt
+* \headheight=14.59999pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count454
-\scratchdimen=\dimen276
-\scratchbox=\box109
-\nofMPsegments=\count455
-\nofMParguments=\count456
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count457
-\MPscratchDim=\dimen277
-\MPnumerator=\count458
-\makeMPintoPDFobject=\count459
-\everyMPtoPDFconversion=\toks35
+\scratchcounter=\count457
+\scratchdimen=\dimen281
+\scratchbox=\box110
+\nofMPsegments=\count458
+\nofMParguments=\count459
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count460
+\MPscratchDim=\dimen282
+\MPnumerator=\count461
+\makeMPintoPDFobject=\count462
+\everyMPtoPDFconversion=\toks36
 ) (C:\Users\henri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -827,224 +850,665 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-\c@lstlisting=\count460
-<Plots/Logo-Ntnu.svg.png, id=235, 1204.5pt x 1204.5pt>
+\c@lstlisting=\count463
+<Plots/Logo-Ntnu.svg.png, id=251, 1204.5pt x 1204.5pt>
 File: Plots/Logo-Ntnu.svg.png Graphic file (type png)
 <use Plots/Logo-Ntnu.svg.png>
-Package pdftex.def Info: Plots/Logo-Ntnu.svg.png  used on input line 72.
-(pdftex.def)             Requested size: 93.94963pt x 93.93591pt.
- [0
+Package pdftex.def Info: Plots/Logo-Ntnu.svg.png  used on input line 75.
+(pdftex.def)             Requested size: 83.3653pt x 83.34952pt.
+ [1
 
-{C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Plots/Logo-Ntnu.svg.png>] [1] [2] (Master.toc [3] [4])
+
+{C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Plots/Logo-Ntnu.svg.png>] [1] [2] (Preface.tex) [3] [4] (Master.toc
+Underfull \vbox (badness 1742) has occurred while \output is active []
+
+ [5
+
+] [6])
 \tf@toc=\write5
 \openout5 = `Master.toc'.
 
- [5] (Master.lof [6])
+ [7] (Master.lof
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8
+
+]
+Overfull \hbox (0.93231pt too wide) in paragraph at lines 15--15
+ [][] [][]\OT1/cmr/m/n/12 Typical syn-chrotron spec-trum of a Giga hertz peaked galaxy (GHP). 
+ []
+
+
+Overfull \hbox (0.35312pt too wide) in paragraph at lines 16--16
+ [][] [][]\OT1/cmr/m/n/12 Schematic view of the ra-dia-tive trans-fer in a spher-i-cal ball of plasma. 
+ []
+
+
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
+ [9])
 \tf@lof=\write6
 \openout6 = `Master.lof'.
 
- (Master.lot)
+ [10] (Master.lot)
 \tf@lot=\write7
 \openout7 = `Master.lot'.
 
- [7] (Introduction.tex) [8] (comsology_dist.tex [9] [10]) [11] (high_energy_part.tex [12]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf, id=549, 578.16pt x 520.34402pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf Graphic file (type pdf)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf  used on input line 76.
-(pdftex.def)             Requested size: 234.87769pt x 211.38924pt.
- [13 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf>] [14]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png, id=606, 572.63937pt x 388.95313pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
+
+] [12]
+Chapter 1.
+(Introduction.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 \newpage
+               [1
+
+]
+Chapter 2.
+(comsology_dist.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
+
+]
+Underfull \vbox (badness 7631) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[5]
+Chapter 3.
+(high_energy_part.tex [6
+
+]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/master_file/hillas.pdf, id=612, 578.16pt x 520.34402pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/master_file/hillas.pdf Graphic file (type pdf)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/master_file/hillas.pdf>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/master_file/hillas.pdf  used on input line 37.
+(pdftex.def)             Requested size: 208.41644pt x 187.56982pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[7 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/master_file/hillas.pdf>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png, id=650, 572.63937pt x 388.95313pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png  used on input line 135.
-(pdftex.def)             Requested size: 375.80574pt x 255.26172pt.
- [15 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png>] [16]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png, id=625, 760.8425pt x 516.93124pt>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png  used on input line 55.
+(pdftex.def)             Requested size: 333.46758pt x 226.501pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[8 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[11]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png, id=689, 760.8425pt x 516.93124pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png  used on input line 205.
-(pdftex.def)             Requested size: 328.82733pt x 223.41982pt.
- [17] [18 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png, id=648, 623.83063pt x 467.24562pt>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png  used on input line 176.
+(pdftex.def)             Requested size: 291.78174pt x 198.2422pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[12 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/UHECRs.png>]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[13]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png, id=711, 623.83063pt x 467.24562pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png  used on input line 313.
-(pdftex.def)             Requested size: 234.87769pt x 175.91536pt.
- [19]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png, id=658, 1072.005pt x 477.58424pt>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png  used on input line 278.
+(pdftex.def)             Requested size: 208.41644pt x 156.10225pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[14]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png, id=721, 1072.005pt x 477.58424pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png  used on input line 326.
-(pdftex.def)             Requested size: 328.82733pt x 146.49008pt.
- [20 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png, id=671, 367.3725pt x 357.335pt>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png  used on input line 291.
+(pdftex.def)             Requested size: 291.78174pt x 129.98427pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[15 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Track_events_neut.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png, id=731, 367.3725pt x 357.335pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png Graphic file (type png)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png  used on input line 365.
-(pdftex.def)             Requested size: 469.75539pt x 456.95103pt.
-) [21] [22 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png>] (Acc_probes.tex [23]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg, id=695, 152.60161pt x 84.69437pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg Graphic file (type jpg)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg  used on input line 65.
-(pdftex.def)             Requested size: 328.82733pt x 182.508pt.
- [24 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/AGN_typ_SED.jpeg>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png, id=705, 483.8075pt x 214.30063pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png  used on input line 76.
-(pdftex.def)             Requested size: 328.82733pt x 145.65709pt.
- [25 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_Compton_scattering.png>] [26]
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png  used on input line 304.
+(pdftex.def)             Requested size: 250.10226pt x 243.27356pt.
 
-LaTeX Warning: Reference `fig:photon_fields' on page 27 undefined on input line 170.
 
-[27] [28]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg, id=753, 792.9625pt x 287.0725pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg Graphic file (type jpg)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg  used on input line 250.
-(pdftex.def)             Requested size: 469.75539pt x 170.06778pt.
- [29 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SYN_spec.jpg>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png, id=766, 359.84438pt x 149.55875pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png  used on input line 313.
-(pdftex.def)             Requested size: 328.82733pt x 136.67831pt.
- [30] [31 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_Transfer.png>] [32]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png, id=800, 626.34pt x 539.51563pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png  used on input line 397.
-(pdftex.def)             Requested size: 234.87769pt x 202.31786pt.
-) [33 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Dermer_pion_res.png>] (AGN.tex [34]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg, id=838, 602.25pt x 466.74374pt>
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[16 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png>])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[17]
+Chapter 4.
+(AGN.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18
+
+]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg, id=758, 602.25pt x 466.74374pt>
 File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg Graphic file (type jpg)
 <use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg  used on input line 98.
-(pdftex.def)             Requested size: 328.82733pt x 254.85103pt.
- [35{C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [36 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg>] [37]) [38] (Compact symmetric objects.tex [39]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png, id=900, 584.1825pt x 620.91975pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png  used on input line 37.
-(pdftex.def)             Requested size: 234.87769pt x 249.65202pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png, id=906, 897.95474pt x 748.59676pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png  used on input line 71.
-(pdftex.def)             Requested size: 375.80574pt x 313.30049pt.
- [40 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png>] [41 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png>] [42] [43] [44] [45]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png, id=959, 462.528pt x 346.896pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png  used on input line 249.
-(pdftex.def)             Requested size: 375.80574pt x 281.86818pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png, id=960, 722.7pt x 433.62pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png  used on input line 256.
-(pdftex.def)             Requested size: 375.80574pt x 225.48369pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png, id=961, 722.7pt x 433.62pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png  used on input line 268.
-(pdftex.def)             Requested size: 375.80574pt x 225.48369pt.
- [46 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png>] [47 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png>]) [48] (CSO.tex
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png, id=989, 462.528pt x 346.896pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png  used on input line 39.
-(pdftex.def)             Requested size: 375.80574pt x 281.86818pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png, id=990, 462.528pt x 346.896pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png  used on input line 46.
-(pdftex.def)             Requested size: 375.80574pt x 281.86818pt.
- [49] [50 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png, id=1008, 578.16pt x 520.344pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png  used on input line 86.
-(pdftex.def)             Requested size: 375.80574pt x 338.21957pt.
- [51] [52 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png>]
-
-Package caption Warning: \label without proper reference on input line 149.
-See the caption package documentation for explanation.
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg  used on input line 75.
+(pdftex.def)             Requested size: 291.78174pt x 226.13542pt.
 
 
-LaTeX Warning: Reference `fig:X-ray_em' on page 53 undefined on input line 126.
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_uhecr_calc_cso.png, id=1029, 722.7pt x 722.7pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_uhecr_calc_cso.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_uhecr_calc_cso.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_uhecr_calc_cso.png  used on input line 136.
-(pdftex.def)             Requested size: 230.18271pt x 230.177pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_neut_calc_cso.png, id=1030, 722.7pt x 722.7pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_neut_calc_cso.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_neut_calc_cso.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_neut_calc_cso.png  used on input line 144.
-(pdftex.def)             Requested size: 230.18271pt x 230.177pt.
-[53] [54 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_uhecr_calc_cso.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/L_n_neut_calc_cso.png>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/jet_power.png, id=1058, 462.528pt x 346.896pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/jet_power.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/jet_power.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/jet_power.png  used on input line 207.
-(pdftex.def)             Requested size: 375.80574pt x 281.86818pt.
- [55] [56 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/jet_power.png>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png, id=1077, 867.24pt x 433.62pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png  used on input line 227.
-(pdftex.def)             Requested size: 375.80574pt x 187.90198pt.
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Time_scales.png, id=1081, 722.7pt x 433.62pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Time_scales.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Time_scales.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Time_scales.png  used on input line 265.
-(pdftex.def)             Requested size: 375.80574pt x 225.48369pt.
- [57 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SEDs_sep.png>] [58 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Time_scales.png>]
-<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hot_spot_expansion.png, id=1100, 811.23074pt x 407.121pt>
-File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hot_spot_expansion.png Graphic file (type png)
-<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hot_spot_expansion.png>
-Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hot_spot_expansion.png  used on input line 279.
-(pdftex.def)             Requested size: 234.87769pt x 117.8757pt.
- [59 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hot_spot_expansion.png>] [60]) [61] (Discussion.tex) [62] [63]
+[19{C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package biblatex Warning: No driver for 'presentation'.
-(biblatex)                Using fallback driver on input line 136.
 
-[64]
-Overfull \hbox (9.36333pt too wide) in paragraph at lines 137--137
-[][]\OT1/cmr/m/n/10 Sanders, Nathan (2021). \OT1/cmr/m/it/10 Guide to Clas-si-fi-ca-tion of Galax-ies and AGNs\OT1/cmr/m/n/10 . 15.11.2023. \OT1/cmr/m/sc/10 url\OT1/cmr/m/n/10 : []$\OT1/cmtt/m/n/10 https : / / astrobites .
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[20 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/unified model agn.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[22])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[23]
+Chapter 5.
+(Acc_probes.tex
+Overfull \hbox (5.05301pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/12 This sec-tion out-lines some dif-fer-ent meth-ods and ob-serv-ables used to probe hadronic
  []
 
-[65] (Master.aux)
- ***********
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-11-01>
- ***********
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `Master.out' has not changed.
-(rerunfilecheck)             Checksum: 999573D24EA473306CD111BC19BDBA1C;9509.
-Package logreq Info: Writing requests to 'Master.run.xml'.
-\openout1 = `Master.run.xml'.
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
 
- ) 
-Here is how much of TeX's memory you used:
- 23647 strings out of 474592
- 431702 string characters out of 5745798
- 1980533 words of memory out of 5000000
- 45169 multiletter control sequences out of 15000+600000
- 567833 words of font info for 70 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 68i,13n,81p,2653b,1469s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/henri/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Master.pdf (66 pages, 8146149 bytes).
-PDF statistics:
- 1401 PDF objects out of 1440 (max. 8388607)
- 347 named destinations out of 1000 (max. 500000)
- 600 words of extra memory for PDF output out of 10000 (max. 10000000)
+[25]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png, id=815, 867.24pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png  used on input line 63.
+(pdftex.def)             Requested size: 375.14705pt x 187.57115pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[26 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SED.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[27]
+Overfull \hbox (7.07443pt too wide) detected at line 134
+[][][][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 ) = []
+ []
+
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_compton.pdf, id=835, 241.4601pt x 127.42105pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_compton.pdf Graphic file (type pdf)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_compton.pdf>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_compton.pdf  used on input line 160.
+(pdftex.def)             Requested size: 291.78174pt x 153.98938pt.
+
+Underfull \vbox (badness 5637) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[29 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Inverse_compton.pdf>]
+Overfull \hbox (101.5635pt too wide) in paragraph at lines 202--205
+\OT1/cmr/m/n/12 where $\OML/cmm/m/it/12 ^^\[] \OT1/cmr/m/n/12 = 2\OML/cmm/m/it/12 ^^T[]r[]$ \OT1/cmr/m/n/12 is the frequency-dependent op-ti-cal depth, and $\OML/cmm/m/it/12 u\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^\[]\OT1/cmr/m/n/12 ) = [] []$.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[30]
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[32]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Synchrotron_radiation.png, id=900, 722.7pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Synchrotron_radiation.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Synchrotron_radiation.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Synchrotron_radiation.png  used on input line 328.
+(pdftex.def)             Requested size: 312.62466pt x 187.57115pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[33]
+Overfull \hbox (45.61252pt too wide) detected at line 363
+[][][]\OML/cmm/m/it/12 S[] \OT1/cmr/m/n/12 = 2\OML/cmm/m/it/12 ^^Y [][] I[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 ) [](\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 ) [](\OML/cmm/m/it/12 ^^R\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 ^^Y [][]\OT1/cmr/m/n/12 ([])([])[]\OML/cmm/m/it/12 A^^W[] [][]\OT1/cmr/m/n/12 [1 \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 ^^@\OML/cmm/m/it/12 ^^\\OT1/cmr/m/n/12 (0)[])]\OML/cmm/m/it/12 dx
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[34 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Synchrotron_radiation.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_transfer_SSA.pdf, id=923, 293.66313pt x 119.90096pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_transfer_SSA.pdf Graphic file (type pdf)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_transfer_SSA.pdf>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_transfer_SSA.pdf  used on input line 391.
+(pdftex.def)             Requested size: 291.78174pt x 119.13406pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[36 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Radiative_transfer_SSA.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[37])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[38]
+Chapter 6.
+(Compact symmetric objects.tex [39
+
+]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png, id=1024, 584.1825pt x 620.91975pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png  used on input line 23.
+(pdftex.def)             Requested size: 208.41644pt x 221.52235pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[40 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/J0741+2706.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png, id=1035, 897.95474pt x 748.59676pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png  used on input line 58.
+(pdftex.def)             Requested size: 250.10226pt x 208.49767pt.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[41 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/CSO_morphology.png>]
+Underfull \vbox (badness 1983) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[43]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png, id=1067, 722.7pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png  used on input line 122.
+(pdftex.def)             Requested size: 333.46758pt x 200.08295pt.
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png, id=1069, 722.7pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png  used on input line 137.
+(pdftex.def)             Requested size: 375.14705pt x 225.0867pt.
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png, id=1070, 722.7pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png  used on input line 143.
+(pdftex.def)             Requested size: 375.14705pt x 225.0867pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[44 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hist_z.png>]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[45 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Lin_size_vs_Luminosity.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/z_vs_Luminosity.png>])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[46]
+Chapter 7.
+(CSO.tex [47
+
+]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png, id=1109, 722.7pt x 722.7pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png  used on input line 48.
+(pdftex.def)             Requested size: 204.2504pt x 204.25134pt.
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png, id=1110, 722.7pt x 722.7pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png  used on input line 56.
+(pdftex.def)             Requested size: 204.2504pt x 204.25134pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[48 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion.png> <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/SSA.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion_and_SSA.png, id=1123, 722.7pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion_and_SSA.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion_and_SSA.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion_and_SSA.png  used on input line 72.
+(pdftex.def)             Requested size: 333.46758pt x 200.08295pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[49 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Equipartion_and_SSA.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Size_of_lobes.png, id=1136, 722.7pt x 433.62pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Size_of_lobes.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Size_of_lobes.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Size_of_lobes.png  used on input line 91.
+(pdftex.def)             Requested size: 333.46758pt x 200.08295pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[50 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Size_of_lobes.png>]
+<C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png, id=1144, 578.16pt x 520.344pt>
+File: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png Graphic file (type png)
+<use C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png>
+Package pdftex.def Info: C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png  used on input line 112.
+(pdftex.def)             Requested size: 333.46758pt x 300.11649pt.
+
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[51]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.49998pt}.
+
+[52 <C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.png>
+!pdfTeX error: pdflatex: fflush() failed (Invalid argument)
+ ==> Fatal error occurred, no output PDF file produced!

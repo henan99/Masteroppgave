@@ -1,28 +1,5 @@
-\section{Active Galactic Nuclei}1
-\begin{enumerate}
-    \item Introduction to AGN
-    \item Why AGN serves as good candidates for UHECRs and neutrinos
-    \item The structure of AGNs 
-    \begin{enumerate}
-        \item The central engine
-        \item The accretion disk
-        \item The corona
-        \item The torus
-        \item The broad-line region
-        \item The narrow-line region
-        \item The jet
-        \item The host galaxy
-        \item Types of outflows and particle leakadge
-    \end{enumerate}
-    \item The different types of AGN
-    \begin{enumerate}
-        \item More boradly on the different types of AGN
-        \item Compact symmetric objects
-        \item Seyfert galaxies
-        \item Blazar types
-    \end{enumerate}
-\end{enumerate}
-
+%\section{Active Galactic Nuclei}
+\label{sec:AGN}
 
 
 
@@ -63,7 +40,7 @@ further cementing the importance of these objects in modern astrophysics.
 
 
 
-\subsection{AGN structure and classification}
+\section{AGN structure and classification}
 
 
 The modern view of AGN is a unified model that combines the different categories of powerful luminous objects cataloged in the mid to late 20th century. 
@@ -100,7 +77,7 @@ The reader is directed to figure \ref{fig:my_label} for a visual representation 
     \label{fig:my_label}
 \end{figure}
 
-\subsubsection{Accretion disk}
+\subsection{Accretion disk}
 An accretion disk is a natural consequence of the conservation of angular momentum. In the case of infalling 
 matter coming close to a supermassive black hole, the matter could have some angular momentum. With this the gas should orbit the black hole at some stable distance but, due to radiative processes, fluid viscosity, and gravitational turbulence, 
 the matter will lose angular momentum and spiral inwards. The inward spiral will eventually allow the matter to fall into the black hole. 
@@ -115,10 +92,10 @@ infalling matter that is accreted onto the black hole and one can express the to
 
 Here $\eta$ is the efficiency of the accretion process, $\dot{M}$ is the mass accretion rate and $c$ is the speed of light.
 
-The efficiency of the accretion disk is a function of the spin of the black hole and the radius of the innermost stable circular orbit (ISCO).
-The ISCO is a counter-intuitive term in classical mechanics but in general relativity the maximum speed of a particle 
-in addition to an energy term when calculating the orbit set bounds for how close a particle can be to 
-a black hole without spiraling in. %without going into too much detail the ISCO will be a solution of this equation based on the black holes mass and spin $a$
+%The efficiency of the accretion disk is a function of the spin of the black hole and the radius of the innermost stable circular orbit (ISCO).
+%The ISCO is a counter-intuitive term in classical mechanics but in general relativity the maximum speed of a particle 
+%in addition to an energy term when calculating the orbit set bounds for how close a particle can be to 
+%a black hole without spiraling in. %without going into too much detail the ISCO will be a solution of this equation based on the black holes mass and spin $a$
 
 %\begin{equation}
 %    6\frac{M}{r_{ISCO}}-8\frac{aM^(\frac{1}{2})}{r^{3/2}_{ISCO}}+3\frac{a^2}{r_{ISCO}^2} = 1.
@@ -127,15 +104,15 @@ a black hole without spiraling in. %without going into too much detail the ISCO 
 %It is clear from \ref{eq:ISCO} that for a non-rotating black hole the ISCO takes the radius of $6M$, the result obtained from the calculation using the Swarzschild metric.
 
 
-The accretion disk also has a bound for its maximum luminosity. As calculated for stars the Eddington
-luminosity sets a maximum strength for the radiation pressure of the accretion disk. This is given as
+%The accretion disk also has a bound for its maximum luminosity. As calculated for stars the Eddington
+%luminosity sets a maximum strength for the radiation pressure of the accretion disk. This is given as
 
 
 
-\begin{equation}
-    L_{Edd} = \frac{4\pi G M m_p c}{\sigma_T}
-    \label{eq:eddington_luminosity}
-\end{equation}
+%\begin{equation}
+%    L_{Edd} = \frac{4\pi G M m_p c}{\sigma_T}
+%    \label{eq:eddington_luminosity}
+%\end{equation}
 
 The heating of the accretion disc will lead to thermal radiation from the disc and this radiation will be
 proportional to the temperature of the disc. This temperature is radially dependent and if one assumes an optically thick but geometrically thin disk also called a Shakura-Sunuaev disk
@@ -149,7 +126,7 @@ Here $\beta$ is a constant that relates the fraction of angular momentum capture
 The temperature of the disk lie between $10^5 - 10^2$ K with emission in the optical, UV to soft X-ray range according to \cite{scholarpedia_accretion_discs}.
 
 
-\subsubsection{Corona and X-ray emission}
+\subsection{Corona and X-ray emission}
 From highly varying X-ray observations of AGN, it became indicative that there was a source of X-rays located close to the black hole. 
 The most contemporary idea is that a corona of energetic particles is located above the accretion disk, and through inverse Compton scattering
 of the optical/UV photons that arise from the accretion disk produce the seen x-ray emission. 
@@ -165,7 +142,7 @@ of up scattering a photon with an electron compared to a proton, the corona x-ra
 
 
 
-%\subsubsection{Emmision lines}
+%\subsection{Emmision lines}
 %When a particle is photionized by the continuum radiation of a source it will emit a photon when it returns to its ground state. 
 %This photon will have a specific wavelength that is determined by the energy difference between the two states.
 %This wavelength is called the emmision line of the particle. When looking a dynamical systems with high velocities 
@@ -175,7 +152,7 @@ of up scattering a photon with an electron compared to a proton, the corona x-ra
 
 
 
-\subsubsection{Broad and narrow line region}
+\subsection{Broad and narrow line region}
 
 Broad emission lines in the case of AGN are formed from the high-density gas clouds located close to the central black hole. The 
 high-density parameter is inferred from the fact that one only sees broad emission from permitted line transitions (e.g. hydrogen Lyman and Balmer,
@@ -186,7 +163,7 @@ Narrow emission lines are on the other hand formed in low-density gas clouds. Th
 both permitted and forbidden line transitions. They are narrow lines due to their velocities being substantially lower than the innermost gas clouds, and from here are thought to be located further away from the black hole, in the narrow line region. 
 
 
-\subsubsection{Dust torus}
+\subsection{Dust torus}
 %https://www.sciencedirect.com/science/article/pii/S0032063315000483#:~:text=This%20model%20proposes%20that%20all,collimating%20the%20radiation%20that%20escapes
 
 The dust torus is a structure of dust that is thought to be located quite close to the black hole (0.1 - 10 pc). The main argument for the existence of this structure is the obscuration of the central region of the AGN. This obscuration 
@@ -197,7 +174,7 @@ the light that is scattered into the line of sight according to \cite{MASON20159
 
 
 
-\subsubsection{Jets}
+\subsection{Jets}
 \label{sec:jets}
 
 A jet is a highly collimated outflow of plasma. The origin of the plasma is thought to be the accretion disk and the hot corona above it. These regions that have a high density of charged particles will under the influence of a magnetic field be accelerated and collimated into a jet-like structure.
@@ -212,7 +189,7 @@ Beyond the energy and their structure, the jets are also notable for their emiss
 
 
 
-\subsection{Types of AGN}
+\section{Types of AGN}
 
 Before the unification of the AGN astronomers named the puzzling objects based on their observational properties. These 
 names are still used to this day and are useful since their observational properties are important parameters for further study. 
@@ -236,7 +213,7 @@ In addition, the distinction comes from the type of jet structure thought to be 
 \textbf{Radio galaxies}:
 Jetted AGN that as the name suggests are very bright in the radio band. They usually refer to AGN viewed edge-on, where the
 torus might block the emissions from the accretion disk. The orientation of Radio galaxies gives way to strong 
-synchrotron radiation, and they are often used to study the jet structure of AGN.
+synchrotron radiation, and they are often used to study the jet structure of AGN. 
 
 \textbf{Seyfert galaxies}:
 Spiral galaxies that have a bright nucleus. They are bright in the optical band and have a smaller active region 
@@ -245,6 +222,8 @@ The galaxies also show quite high variability indicating a small emitting region
 
 \textbf{Compton thin AGN}: 
 A way of distinguishing AGN that can be quite useful. These AGN have lower absorption compared to Compton-thick AGN, which allow more X-rays to escape making them easier to identify. 
+
+\textbf{Compact symmetric objects}:Compact symmetric objects were thought to be a subclass of radio galaxies that previously were thought to be young radio galaxies, but recent studies have shown that they are a distinct class of AGN and the main topic of this thesis, more on them in section \ref{sec:CSO}.
 
 %https://iopscience.iop.org/article/10.1086/305813/fulltext/37493.text.html#:~:text=,line%20time%20delays%2C%20or%20lags
 

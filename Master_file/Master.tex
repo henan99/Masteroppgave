@@ -1,21 +1,23 @@
-\documentclass[]{article}
-%\setlength{\headheight}{13.59999pt}
+\documentclass[a4paper, 12pt, openany]{book}
+\setlength{\headheight}{14.59999pt}
 \usepackage[utf8]{inputenc}
 
 \title{Luminosity function}
 \author{Henrik Andrews}
-\usepackage[backend=biber,style=authoryear, mincitenames=1]{biblatex}
+\usepackage[backend=biber,style=authoryear, maxcitenames= 1]{biblatex}
 \addbibresource{bibfile.bib}
 
 \usepackage{hyperref}
 
 
-
+\setcounter{tocdepth}{2} %table of contents number depth for subsections (2 = x.x.x)
+\setcounter{secnumdepth}{4}
 
 
 \usepackage{subcaption}
-\usepackage[ portrait, margin=2.54cm]{geometry}
+\usepackage[lmargin=1.5in, rmargin=1in, tmargin=1in, bmargin=1in]{geometry} %sets the margins for the pages
 \usepackage{graphicx}
+\usepackage[Bjarne]{fncychap}
 
 \usepackage{amsmath}
 \usepackage{setspace}
@@ -33,8 +35,9 @@
 \usepackage{caption}
 \usepackage{multicol}	
 \usepackage{booktabs}
-
+\usepackage{setspace}
 \usepackage{float}
+\usepackage{titlesec}
 \newcommand{\HRule}[1]{\rule{\linewidth}{#1}}
 \usepackage{listings}
 \usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
@@ -73,36 +76,35 @@
 
 \newpage
 
-\pagestyle{fancy}
-\fancyhf{}
-\setlength\headheight{14pt}
-\fancyhead[L]{Henrik Døvle Andrews}
-\fancyhead[R]{\leftmark}
-\fancyfoot[R]{Page \thepage \:}
-\setcounter{page}{1}
+
 
 
 \maketitle
-\section*{Preface}
-\lipsum[1]
 
-
+\newpage
+\pagenumbering{roman}
 % Abstract
-\begin{abstract}
-\lipsum[1]
+\section*{Abstract}
+\newpage 
+\section*{Abstract in Norwegian}
 
-\end{abstract}
+\newpage
+\input{Preface.tex}
+
 
 \newpage 
 % Summary (you might use a simple section for this)
 % Acknowledgments
 \section*{Acknowledgments}
-I would like to thank my supervisor, Professor Foteini Oikonomou, for her guidance and help throughout this project. I would also like to thank my fellow students for their help and support. \cite{Balasubramaniam_2021}
+I would like to thank my supervisor, Professor Foteini Oikonomou, for her guidance and help throughout this project. I would also like to thank my fellow students and my friend and family for their help and support.
  % Replace with your acknowledgment text
 
 \newpage
 % Table of Contents (optional)
+\begin{spacing}{0.5}
 \tableofcontents
+\end{spacing}
+
 
 \newpage
 % List of Figures
@@ -111,27 +113,63 @@ I would like to thank my supervisor, Professor Foteini Oikonomou, for her guidan
 % List of Tables
 \listoftables
 
+\titleformat{\chapter}[hang]
+  {\normalfont\Large\bfseries}
+  {}
+  {0pt}
+  {\Large\thechapter\quad}
 
 \newpage
+\pagenumbering{arabic}
 
+\setcounter{page}{1}
+\pagestyle{fancy}
+\fancyhf{}
+\setlength\headheight{14pt}
+\fancyhead[LE, RO]{\thepage} %set the page number at left for even, right for odd pages
+\fancyhead[RE, LO]{\leftmark} 
+%\fancyfoot[LE, RO]{Henrik Døvle Andrews}
+
+
+\chapter{Introduction}
 \input{Introduction.tex}
 
 \newpage 
-
+\chapter{The ever expanding universe}
 \input{comsology_dist.tex}
 \newpage
+\chapter{High energy particles}
 \input{high_energy_part.tex}
 \newpage
-\input{Acc_probes.tex}
-\newpage
+\chapter{Active Galactic Nuclei}
 \input{AGN.tex}
 \newpage
-\input{Compact symmetric objects.tex}
-\newpage
-\input{CSO.tex}
-\newpage
-\input{Discussion.tex}
+
+\chapter{Probing Hadronic acceleration sources}
+\input{Acc_probes.tex}
 \newpage
 
+\chapter{Compact symmetric objects}
+\input{Compact symmetric objects.tex}
+\newpage
+
+\chapter{CSO as sources of UHECRs and neutrinos}
+\input{CSO.tex}
+\newpage
+\chapter{Emissivity of Particles}
+\input{Emissivity.tex}
+\newpage
+\chapter{Discussion/Future work}
+\input{Discussion.tex}
+\newpage
+\chapter{Conclusion}
+\input{Conclusion.tex}
+\newpage
 \printbibliography
+\newpage
+\chapter*{Appendix}
+\input{Appendix.tex}
+\newpage
+
+
 \end{document}

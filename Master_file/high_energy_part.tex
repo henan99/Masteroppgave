@@ -1,53 +1,14 @@
-\section{High Energy Particles}
+%\section{High Energy Particles}
 \label{sec:high_energy_particles}
-\begin{enumerate}
-    \item Introduction to high energy particles, cosmic rays, and neutrinos. The standard model. 
-    \item The acceleration mechanisms of cosmic rays and neutrinos., derive the power of a particle undergoing first order Fermi acceleration.
-    \begin{enumerate}
-        \item The Hillas criterion
-        \item Derive the power of a particle undergoing first order Fermi acceleration.
-        \item Timescales for acceleration
-    \end{enumerate}
-    \item Talk about the nature of Cosmic rays
-    \begin{enumerate}
-        \item The composition of cosmic rays
-        \item Energy loss mechanisms of cosmic rays
-        \begin{enumerate}
-            \item Photopion production
-            \item Synchrotron radiation
-            \item GZK cutoff
-            \item Pair production
-            \item local volume limit due to these losses
-        \end{enumerate}
-        \item Detection
-        \begin{enumerate}
-            \item Detectors and retracing
-            \item Emissivity of local volume
-            \item Spectrum
-        \end{enumerate}
-    \end{enumerate}
-    \item Neutrinoes
-    \begin{enumerate}
-        \item Production 
-        \item Flavour mixing
-        \item Energy loss mechanism
-        \item Detection
-        \begin{enumerate}
-            \item detectors and difficultu of detection
-            \item retracing
-            \item Emissivity of local volume? 
-            \item Spectrum 
-        \end{enumerate}
-    \end{enumerate}
 
-\end{enumerate}
 
 In this section one will define and discuss the nature of high energy particles such as high energy cosmic rays(UHECRS) and neutrinos. 
 
-\subsection{Acceleration of high energy particles}
+\section{Acceleration of high energy particles}
+
 Acceleration of high energy particles is still a complicated problem in astrophysics and there are still many open questions. The main ways of acceleration are through shocks, magnetic reconnection, and one-shot acceleration, and one will go through to varying degree these methods in this section. 
 
-\subsubsection{The Hillas criterion}
+\subsection{The Hillas criterion}
 
 
 Before one delves into macroscopic acceleration models one can start with a bigger picture. By arguing that the acceleration, whatever it may be, needs to be of a certain strength and that the particle being accelerated needs to stay confined within the accelerating region for long enough one can create an upper band on the maximum energy reach by charged particle.
@@ -73,22 +34,33 @@ In figure \ref{fig:hillas_c} one can see the different candidates for the accele
 
 \begin{figure}
     \centering
-    \includegraphics[width = 0.5\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/hillas.pdf}
-    \caption{Hillas criterion for proton (blue line) and iron (red line) accelerated up to $10^{20}eV$ and $10^{21}eV$ respectively}
+    \includegraphics[width = 0.5\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/master_file/hillas.pdf}
+    \caption{Hillas criterion for proton (red line) and iron (blue line) accelerated up to $10^{20}eV$. Code to generate plot is given by Foteini Oikonomou.}
     \label{fig:hillas_c}
 \end{figure}
 
 
-\subsubsection{Macroscopic Acceleration mechanisms}
+\subsection{Macroscopic Acceleration mechanisms}
+\label{sec:acceleration_mechanisms}
 In order to accelerate particles to high energies, one needs to have a mechanism that can transfer energy to the particles. This usually happens through electromagnetic fields, and there are several ways this is thought to happen.
 
 \textbf{One-shot acceleration}:
 The simplest yet still a powerful way of accelerating particles is through what is called one-shot acceleration. In the presence of an ordered electricmagnetic fields, one can continuously accelerate charged particles which will follow the field lines. This can be induced from a rotating magnetic field or a straight electric field, all which create and electromagnetic force on a hypothetical charged particle. 
-This could be the feature of some astrophysical objects such as neutron stars and black holes, usually in a quite close proximity to the object in question.% (ref cern paper)
+This could be the feature of some astrophysical objects such as neutron stars and black holes, usually in a quite close proximity to the object in question.% (ref cern paper) 
+
+An example of this realting to AGN jets is acceleration via the kink instability. The explanation of kink instability leading to acceleration is found in \cite{Alves_2018}. Kink instability is a hydrodynamic instability that arises in jets when the magnetic field is not perfectly aligned with the jet. If a perturbation is introduced to the jet, the resulting force on the jet structure will magnify the perturbation. This will lead the jet to a much more complicated structure, and twist the magnetic field lines. See figure \ref{fig:kink_instability} for an illustration. The paper argues that this yields a highly tangled magnetic field and a large scale inductive electric field which is found throughout the kink-unstable region will lead to rapid energization of particles.  
+
+\begin{figure}
+    \centering
+    \includegraphics[width = 0.8\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png}
+    \caption{Simulations from \cite{Alves_2018} showing the evolution of kink instability in a jet. The upper panels shows the before the KI instability has been amplified, and the lower panel shows the jet after the instability has been amplified. From left to right the panels show, Current density, magnetic field lines, and axial electric field. }
+    \label{fig:kink_instability}
+\end{figure}
+
 
 
 \textbf{Second order Fermi acceleration/Diffusive acceleration}
-In regions where one has high variability in the magnetic field strength, one can accelerate particles via scattering. The idea is that charged particles scatter on what can be seen as magnetic clouds and gain energy in the process due to the speed of the clouds. This mechanism is dubbed second order fermi acceleration due to the average energy gain of a particle being proportional to $(\frac{v}{c})^2$. Here $v$ is the speed of the cloud and $c$ is the speed of the particle. This is a slow process due to the proportionality to $v^2$, but as mentioned in \cite{Dermer_2001} can be a viable way of accelerating particles which already have a high energy. In modern times the magnetic mirrors that particles scatter on are thought to be plasma waves. The idea is that particles occupy a background magnetic field $B_0$ with a superimposed fluctuating electromagnetic field which arrise due to cold-plasma waves. The full formalism is described in \cite{BHradiation} at page 361. In trying to shorten the explination on only focuses on the resulting energy gain. The mean rate of change of the momentum of a particle is given as
+In regions where one has high variability in the magnetic field strength, one can accelerate particles via scattering. The idea is that charged particles scatter on what can be seen as magnetic clouds and gain energy in the process due to the speed of the clouds. This mechanism is dubbed second order fermi acceleration due to the average energy gain of a particle being proportional to $(\frac{v}{c})^2$. Here $v$ is the speed of the cloud and $c$ is the speed of the particle. This is a slow process due to the proportionality to $\beta^2$, but as mentioned in \cite{Dermer_2001} can be a viable way of accelerating particles which already have a high energy. In modern times the magnetic mirrors that particles scatter on are thought to be plasma waves. The idea is that particles occupy a background magnetic field $B_0$ with a superimposed fluctuating electromagnetic field which arrise due to cold-plasma waves. The full formalism is described in \cite{BHradiation} at page 361. In trying to shorten the explination on only focuses on the resulting energy gain. The mean rate of change of the momentum of a particle is given as
 
 \begin{equation}
     \left<\frac{dp}{dt}\right> = \frac{1}{p^2}\frac{\partial}{\partial p}\left[p^2D(p)\right] 
@@ -127,17 +99,9 @@ In \cite{Dermer_2001} they can derive the relative power of a particle undergoin
 
 where $t_u$ is the time in the upstream frame, $p$ is the momentum of the particle, $c$ is the speed of light, $q$ is the charge of the particle, $B$ is the magnetic field strength, $\Gamma$ is the Lorentz factor of the shock, and $m$ is the mass of the particle.
 
-\textbf{Kink instabilities(KI) in jets}
-Another method of acceleration which really is diffusive one shot acceleration related to AGN jets is acceleration via the kink instability in jets. The explanation of kink instability leading to acceleration is found in \cite{Alves_2018}. Kink instability is a hydrodynamic instability that arises in jets when the magnetic field is not aligned with the jet. If a perturbation is introduced to the jet, the resulting force on the jet structure will magnify the perturbation. This will lead the jet to a much more complicated structure, and twist the magnetic field lines. See figure \ref{fig:kink_instability} for an illustration. The paper argues that a highly tangled magnetic field and a large scale inductive electric field which is found throughout the kink-unstable region will lead to rapid energization of particles. 
+ 
 
-\begin{figure}
-    \centering
-    \includegraphics[width = 0.8\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/KI_instability.png}
-    \caption{Simulations from \cite{Alves_2018} showing the evolution of kink instability in a jet. The upper panels shows the before the KI instability has been amplified, and the lower panel shows the jet after the instability has been amplified. From left to right the panels show, Current density, magnetic field lines, and axial electric field. }
-    \label{fig:kink_instability}
-\end{figure}
-
-\subsection{UHECRs}
+\section{UHECRs}
 
 UHECRs are charged particles that are bombarding the Earth with energy exceeding 1 exaelectronvolt ($10^{18}$ eV) according to \cite{Alves_Batista_2019}. The exact origin of 
 these particles is still a mystery but due to their high energies, they are thought to be extragalactic.
@@ -147,7 +111,7 @@ The air showers can contain a lot of information such as energy and  direction, 
 %but due to the nature of UHECRs the location of their source is
 %difficult to trace back to. This is because UHECRs are charged particles and therefore are deflected by the magnetic fields they encounter.
 
-\subsubsection{Production and Energy loss}
+\subsection{Production and Energy loss}
 The requirements to produce a UHECR are a charged particle and a powerful accelerator. During a particles acceleration and after it has escaped there are several ways a particle can lose energy.
 In order to model them sufficiently one needs to take into account these energy loss mechanisms in their journey to Earth. 
 
@@ -185,7 +149,7 @@ This limit, called the Greisen-Zatsepin-Kuzmin (GZK) limit comes from the UHECRs
 % https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.121106
 
 
-\subsubsection{Detection}
+\subsection{Detection}
 When a high-energy cosmic ray hits the Earth's atmosphere, it sets off a cascade of interactions with air molecules, resulting in the emission of secondary particles and light. Detecting this cascade is much more feasible than capturing the original cosmic ray itself.
 
 In addition, since the UHECR flux at high energy is extremely low ($<$1 particle per $\rm km^2$ per year for $E > 10^{19}$) one needs a large area to collect enough events. The largest UHECRs detectors of present are the Pierre Auger Observatory and the Telescope Array.
@@ -194,10 +158,17 @@ The Pierre Auger Observatory is located in Argentina and is the largest detector
 
 When a cosmic ray interacts with the atmosphere it produces a shower of secondary particles. These particles will then interact with several of the Cherenkov detectors located on the ground at approximately the same time. By measuring the time difference between the detectors one can reconstruct the direction of the cosmic ray. The energy of the cosmic ray can also be reconstructed by combining the measurements from the Cherenkov detectors. There is also a secondary detector in the Pierre Auger Observatory called the fluorescence detector. This detector will make use of the very faint glow that the air shower produces when it interacts with particles in the atmosphere. The detector will then observe a shower as a trace of light in the sky and by measuring the total amount of light one can infer the energy, while the shape of the trace can give naturally the direction of the cosmic ray.
 
-\subsubsection{Emissivity estimates}
+\subsection{Emissivity estimates}
 \label{sec:emmisivity}
-From the detectors on earth great strides have been made in modeling the flux of UHECRs. The flux is modeled as a power law and the model parameters are taken from \cite{thepierreaugercollaboration2017pierre} and are shown in table \ref{tab:UHECR_flux}. The flux is tohught to be separated into contributions from extragalactic sources and galactic sources, and with this information one can start to make tangible estimates of the sources of UHECRs.
-One such estimate is the emissivity of UHECR sources. The emissivity is a measure of the energy released per unit time per unit volume. The question one can ask is what is the necessary emissivity of UHECRs to explain the observed flux here on Earth? In other words, what is the required energy injection rate per unit volume of UHECRs?
+From the detectors on earth great strides have been made in modeling the flux of UHECRs. The flux is thought to be separated into contributions from extragalactic sources and galactic sources, and with this information one can start to make tangible estimates of the sources of UHECRs. THe extra galactic contribution is modeled as a broken power law with  model parameters shown in table \ref{tab:UHECR_flux}. the model is found in \cite{thepierreaugercollaboration2017pierre} and is given as 
+\begin{equation}
+    J(E_v) = \begin{cases} 
+        J_0 \left(\frac{E_v}{E_{\text{ank}}}\right)^{-\gamma_1}  \text{if } E_v < E_{\text{ank}} \\
+        J_0 \left(\frac{E_v}{E_{\text{ank}}}\right)^{-\gamma_2} \left(1 + \left(\frac{E_{\text{ank}}}{E_s}\right)^{\gamma_d}\right) \left(1 + \left(\frac{E_v}{E_s}\right)^{\gamma_d}\right)^{-1}   \text{if } E_v \geq E_{\text{ank}}.
+    \end{cases}
+\end{equation}
+
+With the flux model one can estimate the emissivity of UHECR sources. The emissivity is a measure of the energy released per unit time per unit volume. The question one can ask is what is the necessary emissivity of UHECRs to explain the observed flux here on Earth? In other words, what is the required energy injection rate per unit volume of UHECRs?
 
 
 \begin{figure}
@@ -209,12 +180,7 @@ One such estimate is the emissivity of UHECR sources. The emissivity is a measur
 
 
 
-\begin{equation}
-    J(E_v) = \begin{cases} 
-        J_0 \left(\frac{E_v}{E_{\text{ank}}}\right)^{-\gamma_1}  \text{if } E_v < E_{\text{ank}} \\
-        J_0 \left(\frac{E_v}{E_{\text{ank}}}\right)^{-\gamma_2} \left(1 + \left(\frac{E_{\text{ank}}}{E_s}\right)^{\gamma_d}\right) \left(1 + \left(\frac{E_v}{E_s}\right)^{\gamma_d}\right)^{-1}   \text{if } E_v \geq E_{\text{ank}}
-    \end{cases}
-\end{equation}
+
 
 \begin{table}
     \centering
@@ -248,7 +214,7 @@ This emissivity is a crude estimation of the required energy injection rate of U
 
 
 
-\subsection{Neutrinos}
+\section{Neutrinos}
 
 The second particle of interest is the neutrino. Neutrinos compared to UHECRs are neutral particles that are produced in various processes in the Universe.
 The most common and well-known is the fusion reaction in the sun where neutrinos are produced in the pp chain. On the other hand the neutrinos of focus in this paper 
@@ -256,7 +222,7 @@ are high-energy neutrinos that are likely produced in the same sources as the UH
 
 
 
-\subsubsection{Production and Energy loss}
+\subsection{Production and Energy loss}
 The production sites of high-energy neutrinos is not clear, but they are thought to be produced in the same sources as UHECRs 
 and in this section, I will go through the most probable way of producing high-energy neutrinos in sources such as AGN.
 
@@ -264,16 +230,15 @@ and in this section, I will go through the most probable way of producing high-e
 
 Hadronic processes can release neutrinos with sufficiently high energy to explain the observations here on Earth. 
 Processes such as nuclear interactions are limited by the binding energy of the nucleus and accelerating a neutrino after its production is difficult.
-Therefore, a common way of producing the observed neutrinos is through the decay of pions. The most important decay is the decay of charged pions into muons and muon neutrinos as seen in equation \ref{eq:pion_decay}
+Therefore, a common way of producing the observed neutrinos is through the decay of pions. The most important decay is the decay of charged pions into muons and muon neutrinos seen as
 
 
 \begin{equation}
-    \pi^+ \rightarrow \mu^+ + \nu_\mu \rightarrow e^+ + \nu_e + \nu_\mu + \bar{\nu_\mu}
+    \pi^+ \rightarrow \mu^+ + \nu_\mu \rightarrow e^+ + \nu_e + \nu_\mu + \bar{\nu_\mu}.
     \label{eq:pion_decay}
 \end{equation}
 
-I will discuss two possible ways of producing these pions in two different environments. 
-
+There are two possible ways of producing these pions in two different environments. 
 
 In a proton-rich environment where the protons can accelerate up to high energies, one can produce pions through the following process
 \begin{equation}
@@ -307,7 +272,7 @@ behave the same way light does in this manner with a drop in energy proportional
 
  
 
-\subsubsection{Detection}
+\subsection{Detection}
 \begin{figure}
     \centering
     \includegraphics[width = 0.5\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_layot.png}
@@ -316,7 +281,7 @@ behave the same way light does in this manner with a drop in energy proportional
 \end{figure}
 
 Neutrinos are weakly interacting matter particles and therefore are very difficult to detect. This makes them excellent candidates for the study of the Universe since they can travel large distances without interacting, but make them 
-quite difficult to detect with high accuracy. The most famous detector and the one used in this paper is the IceCube neutrino observatory. This detector is precisely what it sounds. It is a large block of ice with a size equal to a cubic kilometer located at the South Pole.
+quite difficult to detect with high accuracy. The most famous detector is the IceCube neutrino observatory. This detector is precisely what it sounds. It is a large block of ice with a size equal to a cubic kilometer located at the South Pole.
 The observatory uses the ice located deep in the South Pole as a giant Cherenkov detector. The ice is instrumented with photomultiplier tubes that can detect the Cherenkov radiation produced by neutrinos interacting with the ice. 
 More precisely the observatory is fitted with 5160 photomultiplier tubes located at a depth of 1450-2450 m. The photomultipliers are divided into 86 strings of 60 modules each. The detector is also complemented by the DeepCore detector which is a denser array of photomultiplier tubes located in the center of the detector. See Figure \ref{fig:Ice_cube} for a visual representation of the detector.
 The energy range for this detector is from 10 GeV to 10 EeV. The interaction of neutrinos with the water molecules in the ice can produce charged leptons (muons, electrons or taus). These charged particles if energetic enough will then produce Cherenkov radiation which can be detected by the photomultiplier tubes.
@@ -334,12 +299,19 @@ The detection of neutrinos in IceCube are seperated into categories which often 
 \subsubsection{Emissivity estimates}
 \label{sec:emmisivity_neutrinos}
 
-Armed with the required knowledge above one can also make simple arguments for the sources of these neutrinos based on the observed 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png}
+    \caption{The diffuse flux of neutrinos as measured by the Ice Cube observatory. The y-axis on the left image is the number of events per bin.  The flux is separated into contributions from atmospheric neutrinos and astrophysical neutrinos. The right image is the model astrophysical flux as measured by ICE CUBE. Images taken from \cite{Abbasi_2022} }
+    \label{fig:flux_neutrinos}
+\end{figure}
+
+One can also make simple arguments for the emissivity of  neutrinos sources based on the observed 
 flux here on Earth. The flux used in this paper is the diffuse flux of neutrinos as measured by the Ice Cube observatory. The flux is shown in figure \ref{fig:flux_neutrinos}. 
 For any calculations, we use the astrophysical flux as modeled as a power law. The power law is of the form 
 
 \begin{equation}
-    \Phi(E) = \Phi_0 \left(\frac{E}{E_0}\right)^{-\gamma}
+    \Phi(E) = \Phi_0 \left(\frac{E}{E_0}\right)^{-\gamma}.
 \end{equation}
 
 with $\Phi_0$ being the normalization constant, $E_0$ being the reference energy and $\gamma$ being the spectral index. The model parameters are seen in table \ref{tab:neutrino_flux} and taken from \cite{Abbasi_2022}.
@@ -360,9 +332,3 @@ with $\Phi_0$ being the normalization constant, $E_0$ being the reference energy
 The emissivity of neutrinos is calculated in the same way as for UHECRs. The only difference is the loss time. Neutrinos do not lose energy in the same way as UHECRs and therefore the loss distance will be the size of the Universe. 
 The modeled emissivity is then approximately $1.54 \times 10^{44} \rm erg/Mpc^3/yr$. 
 
-\begin{figure}
-    \centering
-    \includegraphics[width=\textwidth]{C:/Users/henri/OneDrive/Documents/NTNU/Semester 10/Masteroppgave/Plots/Ice_cube_flux_astro.png}
-    \caption{The diffuse flux of neutrinos as measured by the Ice Cube observatory. The y-axis on the left image is the number of events per bin.  The flux is separated into contributions from atmospheric neutrinos and astrophysical neutrinos. The right image is the model astrophysical flux as measured by ICE CUBE. Images taken from \cite{Abbasi_2022} }
-    \label{fig:flux_neutrinos}
-\end{figure}
